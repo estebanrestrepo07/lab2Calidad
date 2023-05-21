@@ -1,0 +1,132 @@
+<html lang="en"><head>
+    <title>Redirect Notice</title>
+    <link type="text/css" id="stylesheet-link" rel="stylesheet" href="https://mcasproxy.azureedge.net/proxyweb/1.33.32/css/proxyweb-all.min.css?cb=1.33.144" media="all">
+    <script src="https://mcasproxy.azureedge.net/proxyweb/1.33.32/js/Handlebars/handlebars-v4.0.11.min.js"></script>
+    <script src="https://mcasproxy.azureedge.net/proxyweb/1.33.32/js/lodash/lodash.core.min.js"></script>
+    <script src="https://mcasproxy.azureedge.net/proxyweb/1.33.32/js/translate.js"></script>
+    <script src="https://mcasproxy.azureedge.net/proxyweb/1.33.32/js/simple-promise.js"></script>
+    
+    <link rel="icon" type="image/x-icon" href="https://mcasproxy.azureedge.net/proxyweb/1.33.32/images/favicon.ico?cb=1.33.144">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <script>
+        var i18nResourcesUrl = "https://cdn.cloudappsecurity.com/i18n/0.249.25";
+        var context = {"REDIRECT_URL":"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fback.haciendabogota.gov.co%2Fsites%2Fdefault%2Ffiles%2FCalendario-Tributario-2023-V01-10-20230124-interactivo_0.pdf&data=05%7C01%7Cjupvalen%40bancolombia.com.co%7C020a9fc6a5c84820f7df08db4d81bee9%7Cb5e244bdc492495b8b1061bfd453e423%7C0%7C0%7C638188991882655266%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=hKpST%2FGlmc8ByqrEe6n%2Fo692fNaq876Tbrj3ly3r9GU%3D&reserved=0","REDIRECT_DOMAIN":"nam10.safelinks.protection.outlook.com","REDIRECT_SIMPLIFIED_URL":"https://nam10.safelinks.protection.outlook.com/","CONTEXTPATH":"https://mcasproxy.azureedge.net/proxyweb/1.33.32","TENANT_LOGO_PATH":""};
+        var locale = escape("");
+        var templateName = "cert-checker-redirect";
+        var partials = [ "page-footer" ];
+        var templatePath = "https://mcasproxy.azureedge.net/proxyweb/1.33.32/js/templates/" + templateName + ".hbs";
+
+        Handlebars.registerHelper('json', function (content) {
+            return JSON.stringify(content);
+        });
+
+        Handlebars.registerHelper('valOrDefault', function (value, defaultValue) {
+            return value || defaultValue;
+        });
+
+        loadPartials();
+
+        function onLoad(content){
+            document.body.innerHTML += content;
+            var evalOnLoad = document.getElementById("on-template-load");
+            if (evalOnLoad) {
+                eval(evalOnLoad.textContent);
+            }
+        }
+        //polyfill intl
+        if (!window.Intl) {
+            //polyfill
+            Translate.loadScript("https://mcasproxy.azureedge.net/proxyweb/1.33.32" + "/js/poly-intl/Intl.min.js", function() {
+                // Load Handlebar-intl
+                Translate.loadScript("https://mcasproxy.azureedge.net/proxyweb/1.33.32" + "/js/Handlebars/handlebars-intl-v1.1.2.min.js", function() {
+                    Translate.initLocale("https://mcasproxy.azureedge.net/proxyweb/1.33.32", i18nResourcesUrl, locale, function () {
+                        loadPartials().then(function(resolve, reject) {
+                                Translate.loadContent(context,templatePath,onLoad)
+                            }
+                        );
+                    });
+                });
+            });
+        }
+        else {
+            Translate.loadScript("https://mcasproxy.azureedge.net/proxyweb/1.33.32" + "/js/Handlebars/handlebars-intl-v1.1.2.min.js", function() {
+                Translate.initLocale("https://mcasproxy.azureedge.net/proxyweb/1.33.32", i18nResourcesUrl, locale, function () {
+                    loadPartials().then(function(resolve, reject) {
+                            Translate.loadContent(context,templatePath,onLoad)
+                        }
+                    );
+                });
+            });
+        }
+
+        function loadPartials() {
+            var promises = [];
+            if (typeof partials === "undefined" || partials.length === 0) {
+                return SimplePromise.resolvedPromise();
+            }
+            partials.forEach(
+                function (partial) {
+                    promises.push(
+                        new SimplePromise(function (resolve, reject) {
+                                var templatePath = "https://mcasproxy.azureedge.net/proxyweb/1.33.32/js/templates/partials/" + partial + ".hbs";
+                                var request = new XMLHttpRequest();
+                                request.onload = function () {
+                                    resolve(request);
+                                };
+                                request.open('GET', templatePath);
+                                request.send();
+                            }
+                        ).then(function(partialRequest) {
+                                Handlebars.registerPartial(partial, partialRequest.responseText)
+                            }
+                        )
+                    );
+                }
+            );
+            return SimplePromise.all(promises);
+        }
+    </script><script type="text/javascript" src="https://mcasproxy.azureedge.net/proxyweb/1.33.32/js/Handlebars/handlebars-intl-v1.1.2.min.js"></script>
+
+
+<script type="text/javascript" src="https://mcasproxy.azureedge.net/proxyweb/1.33.32/js/Handlebars/locale-data/en.js"></script><main class="proxyweb-container">
+    <div class="proxyweb-header"></div>
+    <div class="proxyweb-page-content">
+        <img class="proxyweb-title-image" src="https://mcasproxy.azureedge.net/proxyweb/1.33.32/images/warning.png" role="presentation">
+        <div>
+            <h1 class="proxyweb-title">
+                Redirect Notice
+            </h1>
+        </div>
+        <div class="proxyweb-description">
+            The link you have followed has requested to redirect you to https://nam10.safelinks.protection.outlook.com/
+        </div>
+        <div class="proxyweb-details">
+            If you do not want to continue, please close this tab.
+        </div>
+        <div class="proxyweb-footer-right-section">
+            <a id="proxyweb-dismiss-btn-main" class="proxyweb-continue-to-app" href="https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fback.haciendabogota.gov.co%2Fsites%2Fdefault%2Ffiles%2FCalendario-Tributario-2023-V01-10-20230124-interactivo_0.pdf&amp;data=05%7C01%7Cjupvalen%40bancolombia.com.co%7C020a9fc6a5c84820f7df08db4d81bee9%7Cb5e244bdc492495b8b1061bfd453e423%7C0%7C0%7C638188991882655266%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=hKpST%2FGlmc8ByqrEe6n%2Fo692fNaq876Tbrj3ly3r9GU%3D&amp;reserved=0">
+                Proceed to nam10.safelinks.protection.outlook.com
+            </a>
+        </div>
+    </div>
+</main>
+<div class="proxyweb-footer">
+    <div class="proxyweb-footer-content">
+        <div class="proxyweb-footer-item">
+            <div class="proxyweb-footer-text proxyweb-footer-mcas">
+                Microsoft Defender for Cloud Apps
+            </div>
+            <div class="proxyweb-vertical-line"></div>
+            <div class="proxyweb-footer-text proxyweb-footer-links">
+                <a target="_blank" href="http://go.microsoft.com/fwlink/?LinkID=733268">Terms</a>
+                |
+                <a target="_blank" href="http://go.microsoft.com/fwlink/?LinkId=512132">Privacy</a>
+            </div>
+        </div>
+    </div>
+</div><script id="on-template-load">
+    document.title = "Redirect Notice";
+</script></body></html>

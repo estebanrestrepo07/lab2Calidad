@@ -1,0 +1,2536 @@
+<html lang="es" class=""><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+<script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/integrations/vendor/commons.c42222c4cb2f8913500f.js.gz" async="" status="loaded"></script><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-HQGY9XG2ME" async="" status="loaded"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-HQGY9XG2ME&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/integrations/facebook-pixel/2.11.5/facebook-pixel.dynamic.js.gz" async="" status="loaded"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/actions/google-analytics-4-web/6f5f818a429a5d480a71.js" async="" status="loaded"></script><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/e50626d8/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/tLaTw4deomRI5TNPu7siYARckwFqGstp/analytics.min.js"></script><script src="https://cdn.dynamicyield.com/scripts/1.171.0/dy-coll-nojq-min.js" type="text/javascript" async="true"></script><script async="" src="https://s.pinimg.com/ct/lib/main.b68cecd9.js"></script><script type="text/javascript" async="" src="https://www.youtube.com/iframe_api"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-4ES4HNJXCC&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-GVYK05G3HJ&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T82Q668&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-54HCV3N&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MVS477M&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PS6GSZT&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script src="https://connect.facebook.net/signals/plugins/inferredevents.js?v=2.9.104" async=""></script><script src="https://connect.facebook.net/signals/config/1057072597705880?v=2.9.104&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/plugins/identity.js?v=2.9.104" async=""></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script type="text/javascript" src="/personas/ruxitagentjs_ICA27NVfghjqrux_10263230321103025.js" data-dtconfig="app=a45c5ecd168834f6|featureHash=ICA27NVfghjqrux|vcv=2|rdnt=1|uxrgce=1|bp=3|cuc=ok0ooszr|mel=100000|dpvc=1|md=mdcc1=abody ^rb app-root ^rb app-profile ^rb div.profile__content ^rb div ^rb section ^rb div.information__div--card ^rb h3|ssv=4|lastModification=1683724442240|dtVersion=10263230321103025|tp=500,50,0,1|agentUri=/personas/ruxitagentjs_ICA27NVfghjqrux_10263230321103025.js|reportUrl=/personas/rb_bf58324jks|rid=RID_515590620|rpid=-1563410270|domain=bancolombia.com"></script><link rel="stylesheet" href="/contenthandler/!ut/p/digest!nYgnou9JyfvaGvdsW32D3g/sp/mashup:ra:collection?soffset=0&amp;eoffset=18&amp;themeID=ZJ_IG1AHC80O8DV60QE2FUI6A2004&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1662833272554&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_css_theme_datapicker__1.0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=transversal__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css&amp;entry=wp_css_datepicker__1.0.0%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=st_fontBanco__0.0%3Ahead_css&amp;entry=wp_analytics_aggregator__0.0%3Ahead_css" type="text/css"><link rel="alternate" id="head_css_deferred" href="/contenthandler/!ut/p/digest!nYgnou9JyfvaGvdsW32D3g/sp/mashup:ra:collection?soffset=0&amp;eoffset=18&amp;themeID=ZJ_IG1AHC80O8DV60QE2FUI6A2004&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1662834811051&amp;entry=wp_one_ui_303__0.0%3Ahead_css&amp;entry=wp_one_ui_dijit_303__0.0%3Ahead_css&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_ic4_wai_resources__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wp_analytics_tags__0.0%3Ahead_css&amp;entry=wp_social_rendering_85__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css&amp;deferred=true"><script type="text/javascript">var djConfig={"baseUrl":"/portal_dojo/v1.9/dojo/","locale":"en","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/themeModules/js/com","ibm":"/themeModules/js/ibm","pagebuilder":"/themeModules/modules/pagebuilder/js","portalclient":"/themeModules/modules/portalclient/js","asa":"/themeModules/modules/asa/js","contentmapping":"/themeModules/modules/contentmapping/js","federation":"/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_6G9A1280LGNTB0AMONGHUI0427"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_6G9A1280LG6TB0AQQSD70A30I2","Z6_6G9A1280LGNTB0AMONGHUI0427","Z6_000000000000000000000000A0","Z6_6G9A1280LGNTB0AMONGHUI0427","Z6_6G9A1280LGNTB0AMONGHUI0427","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0","Z6_6G9A1280LG6TB0AQQSD70A30I2","Z6_OHHGG4G0PO3750QQ0092ESI9J5"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_OHHGG4G0PO3750QQ0092ESI9J5','Z6_6G9A1280LG6TB0AQQSD70A30I2','Z6_6G9A1280LGNTB0AMONGHUI0427'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='';wpModules.state.page.protectedPath='/myportal';wpModules.state.page.publicPath='';})();</script><script type="text/javascript" src="/contenthandler/!ut/p/digest!nYgnou9JyfvaGvdsW32D3g/mashup/ra:collection?themeID=ZJ_IG1AHC80O8DV60QE2FUI6A2004&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1647982878000&amp;entry=angular__1.2.19%3Ahead_js&amp;entry=wp_angular_locate__1.2.19%3Ahead_js&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=jquery_3_5_1__0.0%3Ahead_js&amp;entry=wp_wow__1.1.3%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_slide__0.0.1%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js&amp;entry=bootstrap__3.3.7%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_jquery_ui__1.11.2%3Ahead_js&amp;entry=wp_boots_ang_ui__0.12.0%3Ahead_js&amp;entry=wp_boots_ang_ui_temp__0.12.0%3Ahead_js&amp;entry=wp_mobile_detect__0.0.1%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=wp_angular_saniteze__1.2.19%3Ahead_js&amp;entry=wp_angular_animate__1.12.19%3Ahead_js&amp;entry=wp_module_angular__1.0.0%3Ahead_js&amp;entry=wp_live_person__0.0.1%3Ahead_js&amp;entry=wp_jquery_basic_table__0.0.1%3Ahead_js&amp;entry=wp_jquery_all__0.0.1%3Ahead_js&amp;entry=wp_navegacion_module__0.0.1%3Ahead_js&amp;entry=wp_modules_banco__0.0.1%3Ahead_js&amp;entry=wp_analytics_aggregator__0.0%3Ahead_js"></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=29373698"></script><link rel="alternate" id="head_js_deferred" href="/contenthandler/!ut/p/digest!vAH1Rv9R2kl8_eK4Pe2q3A/mashup/ra:collection?themeID=ZJ_IG1AHC80O8DV60QE2FUI6A2004&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1647707198000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_social_rendering_85__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;deferred=true"><link id="aVeIY29jwrD" rel="alternate" href="https://www.bancolombia.com/personas/productos-servicios/compra-venta-dolares-efectivo/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zizdwtHQ2NLAx83P1CnAwcff393D1CPQ1MjMz1w9EUmIEUBAYGu5gbOBobeBrpRxGj3wAHcDQgTj8eBVH4jQ_Xj0KzAtMHYAX-Hh7u7ibuBgH-xuamBoGBBgaWRq7BnpZeplAFeCwpyA0NjTDI9AQADTucFA!!/"><script type="text/javascript">(function() {
+	var element = document.getElementById("aVeIY29jwrD");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><script type="text/javascript" src="https://serviciosvirtuales-wd.apps.bancolombia.com/assets/js/iframePersonas/widgetIframePersonas.js"></script>
+<script>
+    const callChat = async (intentos = 0) => {
+        try {
+            let ifExistIframe = document.getElementById("iFrameResizer")
+            let ifFnIframe = await handleMessage;
+            if (!ifExistIframe || !ifFnIframe) {
+                throw new Error();
+            }
+            if (ifExistIframe && ifFnIframe) {
+                onActiveWidget("iFrameResizer");
+            }
+            return "";
+        } catch (e) {
+            if (intentos > 5) {
+                return "";
+            }
+            setTimeout(() => {
+                return callChat(intentos + 1);
+            }, 3000);
+        }
+    };
+
+    function onActiveWidget(getId) {
+        let idIframe = document.getElementById(getId);
+        var source_ = getUrlParams().source;
+        if (typeof source_ != "undefined" && source_.toLowerCase() === "app") {
+            idIframe.contentWindow.postMessage("CHAT", "*");
+        }
+        if (
+            typeof source_ != "undefined" &&
+            source_.toLowerCase() === "app-call"
+        ) {
+            idIframe.contentWindow.postMessage("CB", "*");
+        }
+        if (
+            typeof source_ != "undefined" &&
+            source_.toLowerCase() === "app-to-call"
+        ) {
+            idIframe.contentWindow.postMessage("C2C", "*");
+        }
+    }
+
+    function getUrlParams(prop) {
+        var params = {};
+        var search = decodeURIComponent(
+            window.location.href.slice(window.location.href.indexOf("?") + 1)
+        );
+        var definitions = search.split("&");
+        definitions.forEach(function (val, key) {
+            var parts = val.split("=", 2);
+            params[parts[0]] = parts[1];
+        });
+        return prop && prop in params ? params[prop] : params;
+    }
+
+    window.addEventListener('load', callChat(0));
+</script><link rel="alternate" id="head_markup_deferred" href="/contenthandler/!ut/p/digest!6dIx2lLAgJqpl2HfX5cWKQ/mashup/ra:collection?themeID=ZJ_IG1AHC80O8DV60QE2FUI6A2004&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_one_ui_303__0.0%3Ahead_markup&amp;entry=wp_layout_windowstates__0.0%3Ahead_markup&amp;deferred=true"><base href="https://www.bancolombia.com/personas/productos-servicios/compra-venta-dolares-efectivo/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zizdwtHQ2NLAx83P1CnAwcff393D1CPQ1MjMz1w9EUmIEUBAYGu5gbOBobeBrpRxGj3wAHcDQgTj8eBVH4jQ_Xj0KzAtMHYAX-Hh7u7ibuBgH-xuamBoGBBgaWRq7BnpZeplAFeCwpyA0NjTDI9AQADTucFA!!/">
+<title>Compra y venta de divisas</title>
+
+<meta content="Adquiere o cambia tus dólares en cualquiera de nuestras Cajas de Divisas ubicadas en más de 200 sucursales del país. Aplica para clientes y no clRealiza la Compra y Venta de Dólares en Efectivo con Bancolombia de manera rápida, cómoda y segura. Ubica la Caja de Divisas más cercana a ti. Ingresa aquí.ientes." name="description"><meta content="Adquiere o cambia tus dólares en cualquiera de nuestras Cajas de Divisas ubicadas en más de 200 sucursales del país. Aplica para clientes y no clRealiza la Compra y Venta de Dólares en Efectivo con Bancolombia de manera rápida, cómoda y segura. Ubica la Caja de Divisas más cercana a ti. Ingresa aquí.ientes." name="twitter:description"><meta content="compra de dolares,venta de dolares,compra y venta de dolares bancolombia,como comprar y vender dolares en efectivo,divisas,sucursal bancolombia dolares,adquir o cambiar dolares,cajas de divisas bancolombia,cambio de dolares,que necesito para comprar y vender dolares,compra y venta de dólares en efectivo personas,compra de dólares,cambio de divisa,compra y venta de dólares,cambio de moneda americana,cambio de dólares para clientes y no clientes,cajas de divisas." name="keywords"><meta content="Adquiere o cambia tus dólares en cualquiera de nuestras Cajas de Divisas ubicadas en más de 200 sucursales del país. Aplica para clientes y no clRealiza la Compra y Venta de Dólares en Efectivo con Bancolombia de manera rápida, cómoda y segura. Ubica la Caja de Divisas más cercana a ti. Ingresa aquí.ientes." property="og:image:alt"><meta content="Adquiere o cambia tus dólares en cualquiera de nuestras Cajas de Divisas ubicadas en más de 200 sucursales del país. Aplica para clientes y no clRealiza la Compra y Venta de Dólares en Efectivo con Bancolombia de manera rápida, cómoda y segura. Ubica la Caja de Divisas más cercana a ti. Ingresa aquí.ientes." property="og:description"><meta content="index, follow" name="robots"><meta content="Adquiere o cambia tus dólares en cualquiera de nuestras Cajas de Divisas ubicadas en más de 200 sucursales del país. Aplica para clientes y no clRealiza la Compra y Venta de Dólares en Efectivo con Bancolombia de manera rápida, cómoda y segura. Ubica la Caja de Divisas más cercana a ti. Ingresa aquí.ientes." name="twitter:image:alt">
+<link rel="alternate" href="https://www.bancolombia.com/personas/productos-servicios/compra-venta-dolares-efectivo" hreflang="es-CO">
+
+	        <link rel="canonical" href="https://www.bancolombia.com/personas/productos-servicios/compra-venta-dolares-efectivo">
+	     
+<link href="/contenthandler/!ut/p/digest!vAH1Rv9R2kl8_eK4Pe2q3A/war/WP85BancoPersonasStatic/themes/Portal8.5/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+
+<meta property="og:title" content="Compra y venta de divisas">
+<meta property="og:site_name" content="Bancolombia">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.bancolombia.com/portal/personas/productos-servicios/compra-venta-dolares-efectivo/personas/productos-servicios/compra-venta-dolares-efectivo">
+<meta property="og.locale" content="es_CO">
+<meta property="og:image" content="https://www.bancolombia.com/wcm/connect/b8e4c3f2-36a9-497d-a125-ac04f83b0bf8/LogoBancolombia.png?MOD=AJPERES">
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
+<!-- Anti-flicker snippet (recommended)  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-W95WRK':true});</script>
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-MCBPVQH"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-W95WRK');
+</script><link rel="preconnect" href="//cdn.dynamicyield.com">
+<link rel="preconnect" href="//st.dynamicyield.com">
+<link rel="preconnect" href="//rcom.dynamicyield.com">
+<link rel="dns-prefetch" href="//cdn.dynamicyield.com">
+<link rel="dns-prefetch" href="//st.dynamicyield.com">
+<link rel="dns-prefetch" href="//rcom.dynamicyield.com">
+
+
+		<script type="text/javascript" src="//cdn.dynamicyield.com/api/8775742/api_dynamic.js"></script>
+		<script type="text/javascript" src="//cdn.dynamicyield.com/api/8775742/api_static.js"></script><style id="dy-common-style" class="dy-common-style" type="text/css">.dy-wysiwyg{line-height:normal;direction:ltr;align-text:left;margin:0;padding:0;background-color:transparent}.dy-wysiwyg a{text-decoration:none;color:#00e}.dynotifyjs-wrapper .dy-lb-close{z-index:1;top:-8px;right:-9px;border:none;transition:opacity .15s;opacity:.7;background-size:14px;background-repeat:no-repeat;background-position:2px;width:18px;height:18px}.dynotifyjs-wrapper .dy-lb-close:hover{opacity:1}.dynotifyjs-corner{position:fixed;margin:0;z-index:1050}.dynotifyjs-corner .dynotifyjs-container,.dynotifyjs-corner .dynotifyjs-wrapper{position:relative;display:block;height:inherit;width:inherit;margin:11px 8px}.dynotifyjs-wrapper{z-index:1;position:absolute;display:inline-block;height:0;width:0}.dynotifyjs-container{display:none;z-index:1;position:absolute}[data-dynotify-html],[data-dynotify-text]{position:relative}.dynotifyjs-arrow{position:absolute;z-index:2;width:0;height:0}.dy-lb-close{position:absolute;top:-12px;right:-11px;cursor:pointer;color:#fff;border:1px solid #918686;border-radius:30px;display:inline-block;height:22px;width:22px;background:#575757 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==);background-size:22px}.dy-full-width-notifications-close{top:5px;right:5px;z-index:1;border:none;transition:opacity .15s;-webkit-transition:opacity .15s;opacity:.7;width:18px;height:18px;position:absolute;cursor:pointer;color:#fff;border-radius:30px;display:inline-block;background:#575757 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==);background-size:14px;background-repeat:no-repeat;background-position:2px}.dy-full-width-notifications-close:hover{opacity:1}.dy_full_width_notifications_container{position:fixed;left:0;right:0;z-index:1040}.dy_full_width_notifications_container.dy_bottom_notification{bottom:0}.dy_full_width_notifications_container.dy_top_notification{top:0}.dy_full_width_notifications_container .dy_full_width_notification_instance{opacity:0;-webkit-transition:opacity .15s;transition:opacity .15s;position:relative}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_active{opacity:1}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_from_bottom{-webkit-animation:dy_appear_from_bottom .25s;animation:dy_appear_from_bottom .25s}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_from_top{-webkit-animation:dy_appear_from_top .25s;animation:dy_appear_from_top .25s}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_will_exit_top{-webkit-animation:dy_exit_top .25s;animation:dy_exit_top .25s;animation-fill-mode:forwards;-webkit-animation-fill-mode:forwards}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_will_exit_bottom{-webkit-animation:dy_exit_bottom .25s;animation:dy_exit_bottom .25s;animation-fill-mode:forwards;-webkit-animation-fill-mode:forwards}@-webkit-keyframes dy_appear_from_bottom{0%{-webkit-transform:translateY(100%);transform:translateY(100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes dy_appear_from_bottom{0%{-webkit-transform:translateY(100%);transform:translateY(100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes dy_appear_from_top{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes dy_appear_from_top{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes dy_exit_top{100%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@keyframes dy_exit_top{100%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@-webkit-keyframes dy_exit_bottom{100%{-webkit-transform:translateY(100%);transform:translateY(100%)}}@keyframes dy_exit_bottom{100%{-webkit-transform:translateY(100%);transform:translateY(100%)}}.dy-modal-container{position:fixed;z-index:99999;top:0;left:0;bottom:0;right:0;width:100%;height:100vh;display:table;-webkit-transition:opacity .2s ease;transition:opacity .2s ease}.dy-modal-container .dy-modal-backdrop{position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;opacity:0;-webkit-transition:opacity .2s;transition:opacity .2s;background-color:#000}.dy-modal-container .dy-modal-wrapper{position:relative;z-index:1;display:table-cell;vertical-align:middle;text-align:center;width:100%}.dy-modal-container .dy-modal-wrapper.dy-modal-bottom{padding-bottom:20px;vertical-align:bottom}.dy-modal-container .dy-modal-wrapper.dy-modal-top{padding-top:20px;vertical-align:top}.dy-modal-container .dy-modal-wrapper .dy-modal-contents{position:relative;display:inline-block;-webkit-animation:dy-modal-enter .25s;animation:dy-modal-enter .25s;visibility:hidden}.dy-modal-container .dy-modal-wrapper .dy-modal-contents .dy-lb-close{z-index:1;top:-9px;right:-9px;border:none;opacity:.7;transition:opacity .15s;width:18px;height:18px;cursor:pointer;position:absolute;border-radius:30px;color:#fff;background:#575757 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==) no-repeat 2px;background-size:14px}.dy-modal-container .dy-modal-wrapper .dy-modal-contents .dy-lb-close:hover{opacity:1}@-webkit-keyframes dy-modal-enter{0%{opacity:0;-webkit-transform:scale(.5);transform:scale(.5)}50%{-webkit-transform:scale(1.05);transform:scale(1.05)}85%{-webkit-transform:scale(1.1);transform:scale(1.1)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}</style><script type="text/javascript" async="true" src="//st.dynamicyield.com/st?sec=8775742&amp;inHead=true&amp;id=-7786723517815931342&amp;jsession=wx0hx3mjsvj7e3q8rzaljossfmjt7jql&amp;ref=https%3A%2F%2Fwww.bancolombia.com%2F&amp;scriptVersion=1.171.0&amp;isSesNew=false&amp;dyid_server="></script>
+	
+<script type="text/javascript">
+	function readCookie(name) { return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + name.replace(/[\-\.\+\*]/g, "\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;}
+	function _idyServer() {
+        Date.prototype.addYears = function(n) {
+            var now = new Date();
+            return new Date(now.setFullYear(now.getFullYear() + n));
+        };	    
+	    let readId = readCookie('_dyid');
+	    if (readId !== null) {
+	        let nameNewCookie,dataCookie,d,expiresdate
+	        nameNewCookie = '_dyid_server'
+	        dataCookie = encodeURIComponent(readId)
+	        d = new Date().addYears(1);
+	        expiresdate = d
+	        document.cookie = nameNewCookie+"=" + dataCookie + "; expires=" + expiresdate.toUTCString()
+	    }
+	}
+	_idyServer()
+</script><script async="" src="https://static.hotjar.com/c/hotjar-373418.js?sv=6"></script><script async="" src="https://script.hotjar.com/modules.9ac4218629ac8ca6cf73.js" charset="utf-8"></script><meta http-equiv="origin-trial" content="AxMeahpLO9nDB/vFXFMGOd/JLhKWx/mOjErAi0qFXDzWuMSYoKpfjFtFfQWMCx+Qg39PMxDJHSLlAJF/H8rtmAwAAABveyJvcmlnaW4iOiJodHRwczovL3MucGluaW1nLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script charset="UTF-8" id="_lpTagScriptId_0" src="https://lptag.liveperson.net/lptag/api/account/29373698/configuration/applications/taglets/.jsonp?v=2.0&amp;df=undefined&amp;b=undefined"></script><script async="" id="lp-ui-framework" src="https://lpcdn.lpsnmedia.net/le_unified_window/10.27.0.0-release_5563/ui-framework.js?version=10.27.0.0-release_5563" charset="utf-8"></script><script async="" id="lp-api-messaging" src="https://lpcdn.lpsnmedia.net/le_unified_window/10.27.0.0-release_5563/UMSClientAPI.min.js?version=10.27.0.0-release_5563" charset="utf-8"></script><script async="" id="lp-api-chat" src="https://lpcdn.lpsnmedia.net/le_unified_window/10.27.0.0-release_5563/lpChatV3.min.js?version=10.27.0.0-release_5563" charset="utf-8"></script><script async="" id="lp-survey-logic" src="https://lpcdn.lpsnmedia.net/le_unified_window/10.27.0.0-release_5563/surveylogicinstance.min.js?version=10.27.0.0-release_5563" charset="utf-8"></script><script async="" id="lp-uw-embedded" src="https://lpcdn.lpsnmedia.net/le_unified_window/10.27.0.0-release_5563/desktopEmbedded.js?version=10.27.0.0-release_5563" charset="utf-8"></script></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W95WRK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+
+<iframe height="0" width="0" style="display: none; visibility: hidden;" src="https://us.creativecdn.com/tags?type=iframe&amp;id=pr_jhGcnXd71YJghz9Pbt7Y&amp;ncm=1&amp;id=pr_jhGcnXd71YJghz9Pbt7Y_lid_q8QoVfZvnR2ErYAvUPpx&amp;su=https%3A%2F%2Fwww.bancolombia.com%2Fpersonas%2Fproductos-servicios%2Fcompra-venta-dolares-efectivo&amp;sr=https%3A%2F%2Fwww.bancolombia.com%2F&amp;ts=1684454975809" data-gtm-yt-inspected-1285339_700="true" data-gtm-yt-inspected-1285339_4574="true" data-gtm-yt-inspected-117="true" data-gtm-yt-inspected-122="true" data-gtm-yt-inspected-92224505_300="true" data-gtm-yt-inspected-50591455_706="true" data-gtm-yt-inspected-185="true"></iframe><portletapi:init>
+<script src="/wcm/connect/www.bancolombia.com-26918/06d72771-bffe-451b-a6d8-b6c5dacd9805/modules.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-06d72771-bffe-451b-a6d8-b6c5dacd9805-okrHrYw" defer=""></script>
+
+	<script type="text/javascript">
+	    function SVPersonas(){localStorage.setItem("SVPersonas", "Si");}
+	</script>
+	<script type="text/javascript">
+	    function Onclick(){localStorage.setItem("Onclick", 'UserOnclick');} 
+	</script>
+
+
+	<script>var mobileJs = false;</script>
+			
+
+
+		<portletapi:init>
+		<link rel="stylesheet" title="" media="all" href="/wcm/connect/www.bancolombia.com-26918/005a0433-45a2-4ee2-9c34-ccc90b896519/bancolombia.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-005a0433-45a2-4ee2-9c34-ccc90b896519-mTL1maP" type="text/css">
+<link rel="stylesheet" title="" href="/wcm/connect/www.bancolombia.com-26918/ed733130-95f5-4b7a-92a8-ccf2e7706c2e/modules.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-ed733130-95f5-4b7a-92a8-ccf2e7706c2e-mTLdMQ2" type="text/css">
+<link rel="stylesheet" title="" href="/wcm/connect/www.bancolombia.com-26918/abf81dd4-170c-4627-9d8d-69634ded7a1a/estiloMonto.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-abf81dd4-170c-4627-9d8d-69634ded7a1a-mMb1h1y" type="text/css">
+
+<!-- Header Css -->
+<link rel="stylesheet" title="" href="/wcm/connect/www.bancolombia.com-26918/3aae6974-372c-42ef-9983-ef84101a8f9e/header.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-3aae6974-372c-42ef-9983-ef84101a8f9e-ogaFqp9" type="text/css">
+<link rel="stylesheet" title="" href="/wcm/connect/www.bancolombia.com-26918/9ba29645-af11-4dd0-8cf9-158e6598219f/breadcrumbs.min.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-9ba29645-af11-4dd0-8cf9-158e6598219f-nCQK3oJ" type="text/css">
+
+<style>
+    .old-mobile-navigation .submenu-three a{font-size: 14px !important;} .old-mobile-navigation .submenu_notLink.submenu_primary {border-top: 1px solid #d1d2d4;}
+.old-mobile-navigation .submenu_notLink a {position: relative; padding-right: 30px; color: #2C2A29;  text-decoration: none; border-bottom: 0; margin: 4px 0px;}
+    </style>
+
+
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name": "Bancolombia",
+  "url": "https://www.bancolombia.com",
+  "logo": "https://www.bancolombia.com/wcm/connect/b8e4c3f2-36a9-497d-a125-ac04f83b0bf8/LogoBancolombia.png?MOD=AJPERES",  
+  "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+57 018000912345",
+      "contactType" : "Customer support",
+      "contactOption" : "TollFree",
+      "availableLanguage" : "Spanish",
+      "areaServed" : "CO"
+    } , {
+      "@type" : "ContactPoint",
+      "telephone" : "+5713430000",
+      "contactType" : "Customer support",
+      "availableLanguage" : "Spanish",
+      "areaServed" : "Bogotá"
+    } , {
+      "@type" : "ContactPoint",
+      "telephone" : "+5725540505",
+      "contactType" : "Customer support",
+      "availableLanguage" : "Spanish",
+      "areaServed" : "Cali"
+    } , {
+      "@type" : "ContactPoint",
+      "telephone" : "+5776972525",
+      "contactType" : "Customer support",
+      "availableLanguage" : "Spanish",
+      "areaServed" : "Bucaramanga"
+    } , {
+      "@type" : "ContactPoint",
+      "telephone" : "+573401213",
+      "contactType" : "Customer support",
+      "availableLanguage" : "Spanish",
+      "areaServed" : "Pereira"
+    } , {
+      "@type" : "ContactPoint",
+      "telephone" : "+5745109000",
+      "contactType" : "Customer support",
+      "availableLanguage" : "Spanish",
+      "areaServed" : "Medellín"
+    } , {
+      "@type" : "ContactPoint",
+      "telephone" : "+5756934400",
+      "contactType" : "Customer support",
+      "availableLanguage" : "Spanish",
+      "areaServed" : "Cartagena"
+    } , {
+      "@type" : "ContactPoint",
+      "telephone" : "+5753618888",
+      "contactType" : "Customer support",
+      "availableLanguage" : "Spanish",
+      "areaServed" : "Barranquilla"
+    } , {
+      "@type" : "ContactPoint",
+      "telephone" : "+57353851616",
+      "contactType" : "Customer support",
+      "availableLanguage" : "Spanish",
+      "areaServed" : "Barranquilla"
+    } ] }
+</script>
+<header id="old-headerMain" class="old-header-main">
+  <div class="old-header-top bg-gray color-white">
+      <div class="container container-max">
+          <nav class="old-header-top_nav">
+              <ul class="old-header-top_menu">
+                  <li class="old-header-top_item">
+                      <a href="/personas" title="" target="" class="old-header-top_link active">Personas</a>
+                  </li>
+                  <!-- /header-top_item -->
+                  <li class="old-header-top_item">
+                      <a href="/wps/portal/negocios-pymes" title="" target="" class="old-header-top_link">Negocios</a>
+                  </li>
+                  <!-- /header-top_item -->
+                  <li class="old-header-top_item">
+                      <a href="/wps/portal/empresas" title="" target="" class="old-header-top_link">Corporativos</a>
+                  </li>
+                  <!-- /header-top_item -->
+                  <li class="old-header-top_item has-submenu active">
+                      <a class="old-header-top_link">Negocios especializados</a>
+                      <div class="old-header-top_submenu bg-white color-default">
+                          <div class="container">
+                              <div class="row">
+                                <span class="close-menu-top cerrar icon-bco icon-error"></span>
+                                  <div class="col-md-4">
+                                      <h3 class="submenu-title">Negocios en Colombia</h3>
+                                      <ul class="submenu-cont">
+                                          <li class="submenu-cont_item">
+                                              <a href="https://bancainversion.grupobancolombia.com" class="submenu-cont_link">Banca de Inversión Bancolombia</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+                                          <li class="submenu-cont_item">
+                                              <a href="https://fiduciaria.grupobancolombia.com" class="submenu-cont_link">Fiduciaria Bancolombia</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+                                          <li class="submenu-cont_item">
+                                              <a href="https://leasing.grupobancolombia.com" class="submenu-cont_link">Leasing Bancolombia</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+                                          <li class="submenu-cont_item">
+                                              <a href="https://renting.grupobancolombia.com" target="_blank" class="submenu-cont_link">Renting Colombia</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+                                          <li class="submenu-cont_item">
+                                              <a href="https://valores.grupobancolombia.com" class="submenu-cont_link">Valores Bancolombia</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+
+                                          <li class="submenu-cont_item">
+                                              <a href="https://factoring.grupobancolombia.com" class="submenu-cont_link">Factoring Bancolombia</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+                                          <li class="submenu-cont_item">
+                                              <a href="https://assetmanagement.grupobancolombia.com" class="submenu-cont_link">Asset Management</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+                                          <!-- <li class="submenu-cont_item">
+                                              <a href="https://comerciointernacional.grupobancolombia.com"  class="submenu-cont_link">Comercio Internacional</a>
+                                          </li> -->
+                                          <!-- /submenu-cont_item -->
+                                          <li class="submenu-cont_item">
+                                              <a href="https://sufi.grupobancolombia.com" class="submenu-cont_link">Sufi</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+                                        <!--  <li class="submenu-cont_item">
+                                              <a href="http://www.tuya.com.co"  class="submenu-cont_link">Tuya</a>
+                                          </li>-->
+                                          <!-- /submenu-cont_item -->
+                                      </ul>
+                                      <!-- /submenu-cont -->
+                                  </div>
+                                  <!-- /col -->
+                                  <div class="col-md-4">
+                                      <h3 class="submenu-title">Entidades en el exterior</h3>
+                                      <ul class="submenu-cont">
+                                          <li class="submenu-cont_item">
+                                              <a href="https://valoresbanistmo.grupobancolombia.com" class="submenu-cont_link">Valores Banistmo</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+                                          <li class="submenu-cont_item">
+                                              <a href="https://sucursalpanama.grupobancolombia.com" class="submenu-cont_link">Sucursal Panamá</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+                                          <li class="submenu-cont_item">
+                                              <a href="https://panama.grupobancolombia.com" class="submenu-cont_link">Bancolombia Panamá</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+
+                                          <li class="submenu-cont_item">
+                                              <a href="https://puertorico.grupobancolombia.com" class="submenu-cont_link">Bancolombia Puerto
+          Rico</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+                                          <li class="submenu-cont_item">
+                                              <a href="https://www.banistmo.com/wps/portal/banistmo/personas" class="submenu-cont_link">Banistmo</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+                                          <li class="submenu-cont_item">
+                                              <a href="http://www.bancoagricola.com" class="submenu-cont_link">Banco Agrícola</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+                                          <li class="submenu-cont_item">
+                                              <a href="http://www.bam.com.gt" class="submenu-cont_link">BAM (Banco Agromercantil
+          de
+          Guatemala)</a>
+                                          </li>
+                                          <!-- /submenu-cont_item -->
+                                      </ul>
+                                      <!-- /submenu-cont -->
+                                  </div>
+                                  <!-- /col -->
+                              </div>
+                          </div>
+                          <!-- /container -->
+                      </div>
+                      <!-- /header-top_submenu -->
+                  </li>
+                  <!-- /header-top_item -->
+                  <li class="old-header-top_item">
+                    <a href="/tu360" title="" target="" class="old-header-top_link activetu360">TU360</a>
+                </li>
+              </ul>
+              <ul class="old-header-top_menu">
+                  <!-- <li class="old-header-top_item">
+                      <a class="old-header-top_link icon icon_buscar" target="_self" href="/wps/portal/acerca-de/buscador"><span>Buscar</span> <span><i class="icon-bco icon-search  pl-2"></i></span></a>
+                  </li> -->
+                  <!-- /header-top_item -->
+                  <li class="old-header-top_item">
+                      <a class="old-header-top_link icon icon_ayuda" href="/personas/documentos-legales/transparencia-acceso-informacion"><span>Transparencia</span></a>
+                  </li>
+                  <li class="old-header-top_item">
+                      <a class="old-header-top_link icon icon_puntos" targe="_self" href="/personas/consumidor-financiero"><span>Consumidor</span></a>
+                  </li>
+                  <!-- /header-top_item -->
+                  <li class="old-header-top_item">
+                      <a class="old-header-top_link icon icon_documentos" href="/personas/necesidades/documentos"><span>Solicita Documentos</span></a>
+                  </li>
+              </ul>
+          </nav>
+      </div>
+      <!-- /container -->
+  </div>
+  <!-- /header-top -->
+
+  <div class="container container-max">
+      <div class="old-header-main_cont d-flex  old-navigation_logo">
+          <figure class="old-header-main_logo" itemscope="" itemtype="http://schema.org/brand">
+              <a href="/personas" title="" target="">
+                <span class="bc-icon" style="font-size: 55px;color: #292929;position: relative;">bancolombia-horizontal</span>
+              </a>
+          </figure>
+          <nav class="old-header-main_nav">
+              <ul class="old-header-menu">
+                  <li class="old-header-menu_item">
+                      <a href="/personas" title="" target="" class="old-header-menu_link">Inicio</a>
+                  </li>
+                  <!-- /header-nav_item -->
+                  <li class="old-header-menu_item has-submenu">
+                      <a class="old-header-menu_link">Necesidades</a>
+                      <div class="old-desktop-submenu">
+                        <div class="container ">
+                            <div class="row ">
+                                <span class="close-menu"><i class="icon-bco icon-error"></i></span>
+
+                                <div class="col-sm-4 cardcenter">
+                                    <h3 class="submenu-title ">Necesidades</h3>
+                                    <ul class="desktop-submenu_list">
+                                        <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                            <a href="/personas/necesidades/documentos" title="" target="" id="Solicitud-de-documentos">
+                                                    Solicitud de documentos
+                                                  </a>
+                                        </li>
+
+                                        <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                            <a href="/personas/movilidad" title="" target="" id="Solucion-privada">
+                                                    Soluciones de movilidad privada
+                                                  </a>
+                                        </li>
+
+                                        <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                            <a href="/personas/vivienda" title="" target="" id="Soluciones-de-vivienda">
+                                                      Soluciones de vivienda 
+                                                  </a>
+                                        </li>
+                                        <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                            <a href="/pagos" title="" target="" id="Soluciones-de-pago">
+                                                      Soluciones de pago
+                                                  </a>
+                                        </li>
+                                        <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                            <a href="/personas//movilidad/publica" title="" target="" id="Soluciones-de-movilidad">
+                                                   Soluciones de movilidad pública
+                                                  </a>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                                <!-- /col -->
+                                <div class="col-sm-4 cardcenter">
+                                    <h3 class="submenu-title ">Banco para todos</h3>
+                                    <ul class="desktop-submenu_list ">
+                                        <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                            <a href="/personas/banco-para-todos/ninos" title="" target="" id="Para-los-niños">
+                                                    Para los niños                                                   
+                                                  </a>
+                                        </li>
+                                        <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                            <a href="/personas/banco-para-todos/jovenes" title="" target="" id="Para-los-jovenes ">
+                                                    Para los jóvenes                                                
+                                                  </a>
+                                        </li>
+                                        <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                            <a href="/personas/banco-para-todos/familia" title="" target="" id="Para-la-familia ">
+                                                    Para la familia 
+                                                  </a>
+                                        </li>
+
+                                        <!-- /col -->
+                                    </ul>
+                                    </div>
+                                <!-- /col -->
+                                <div class="col-sm-4 cardcenter">
+                                    <h3 class="submenu-title "><br></h3>
+                                    <ul class="desktop-submenu_list ">
+                                        <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                            <!-- <a href="/personas/necesidades/ninos-bancolombia" title="" target="" id="header-necesidades-ninos">Bancolombia y los niños</a> -->
+                                            <a href="/personas/banco-para-todos/colombianos-en-el-exterior" title="" target="" id="Colombianos-en-el-exterior">Colombianos en el exterior</a>
+                                        </li>
+                                        <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                            <!-- <a href="/personas/necesidades/jovenes-bancolombia" title="" target="" id="header-necesidades-jovenes">Bancolombia y los jóvenes</a> -->
+                                            <a href="/personas/banco-para-todos/preferencial" title="" target="" id="Cliente-Preferencial">Cliente Preferencial</a>
+                                        </li>
+                                        <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                             <a href="/personas/banco-para-todos/privada" title="" target="" id="Banca-Privada">Banca Privada</a>
+                                        </li>
+<li class="desktop-submenu_item desktop-submenu_item--pane">
+<a href="/personas/banco-para-todos/independientes" title="" target="" id="Cliente-Independiente">Cliente Independiente</a>
+                                        </li>
+
+
+                                        <!-- /col -->
+                                    </ul>
+                                </div>
+
+
+                                         <div class="col-sm-4 cardcenter submenu-block">
+                                            <h3 class="submenu-title "><br></h3>
+                                            <a href="/personas/beneficios" title="" target="" class="underline submenu-title" id="Ofertas-y-beneficios ">
+                                                <h3 class="submenu-title" style="text-decoration: underline;">Ofertas y beneficios</h3>
+                                            </a>
+                                            <ul class="desktop-submenu_list ">
+                                                <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                    <p>Disfruta opciones hechas para ti por ser nuestro cliente</p>
+                                                </li>
+                                                <!-- /col -->
+                                            </ul>
+                                        </div>
+
+                                        <div class="col-sm-4 cardcenter submenu-block">
+                                            <h3 class="submenu-title "><br></h3>
+                                            <a href="https://solicitud-turno.apps.bancolombia.com/cliente/bienvenido" class="underline submenu-title" id="Solicitud-de-turno-sucursales">
+                                                <h3 class="submenu-title" style="text-decoration: underline;">Solicitud de turno en sucursales</h3>
+                                            </a>
+                                            <ul class="desktop-submenu_list ">
+                                                <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                    <p>Ahorra tiempo, adelanta tu gestión desde donde estés</p>
+                                                </li>
+                                                <!-- /col -->
+                                            </ul>
+                                        </div>
+
+                                        <div class="col-sm-4 cardcenter submenu-block">
+                                            <h3 class="submenu-title "><br></h3>
+                                            <a href="/personas/necesidades/documentos/referencias-bancarias" title="" target="" class="underline submenu-title" id="header-Certificaciones-Bancarias">
+                                                <h3 class="submenu-title" style="text-decoration: underline;">Certificaciones Bancarias</h3>
+                                            </a>
+                                            <ul class="desktop-submenu_list ">
+                                                <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                    <p>Encuentra lo que quieres cuando quieras, aquí te ayudamos</p>
+                                                </li>
+                                                <!-- /col -->
+                                            </ul>
+                                        </div>
+                                <!-- /col -->
+                            </div>
+                            <!-- /row -->
+                        </div>
+                          <!-- /container -->
+                      </div>
+                      <!-- /desktop -->
+                  </li>
+                  <!-- /header-nav_item -->
+                  <li class="old-header-menu_item has-submenu">
+                      <a class="old-header-menu_link">Productos y Servicios</a>
+                      <div class="old-desktop-submenu">
+                        <div class="container">
+                            <div class="row">
+                                <span class="close-menu"><i class="icon-bco icon-error"></i></span> 
+                                
+                                <div class="col-sm-4 cardcenter">
+                                        <h3 class="submenu-title ">Productos y Servicios</h3>
+                                            <ul class="desktop-submenu_list">
+                                                <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                    <a href="/personas/cuentas" title="" target="" id="header-productos-cuentas">Cuentas</a>
+                                                </li>
+                                                <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                    <a href="/personas/tarjetas-debito" title="" target="" id="header-productos-debito">Tarjetas Débito</a>
+                                                </li>
+                                                <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                    <a href="/personas/tarjetas-de-credito" title="" target="" id="header-productos-tdc">Tarjetas de Crédito</a>
+                                                </li>
+                                                <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                    <a href="/personas/creditos" title="" target="" id="header-productos-creditos">Créditos</a>
+                                                </li>
+                                                <!-- /col -->                                                                     
+                                            </ul>
+                                </div>
+                                <!-- /col -->
+                                <div class="col-sm-4 cardcenter">
+                                    <h3 class="submenu-title "><br></h3>
+                                        <ul class="desktop-submenu_list ">
+                                          
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/seguros" title="" target="" id="header-productos-seguros">Seguros y asistencias</a>
+                                            </li>
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/productos-servicios/inversiones" title="" target="" id="header-productos-inversiones">Inversiones</a>
+                                            </li>
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/productos-servicios/giros" title="" target="" id="header-productos-giros">Giros</a>
+                                            </li>
+  <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/a-la-mano" title="" target="" id="header-productos-a-la-mano">Bancolombia A la Mano</a>
+                                            </li>
+                                            <!-- /col --> 
+                                        </ul>
+                                </div>
+                                        <!-- /col -->  
+                                <div class="col-sm-4 cardcenter">
+                                    <h3 class="submenu-title "><br></h3>
+                                        <ul class="desktop-submenu_list ">
+  <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/productos-servicios/leasing" title="" target="" id="header-productos-leasing">Leasing</a>
+                                            </li>
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/productos-servicios/pagos" title="" target="" id="header-productos-servicios">Servicios de pago</a>
+                                            </li>
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/productos-servicios/compra-venta-dolares-efectivo" title="" target="" id="header-productos-dolares">Compra y venta de dólares
+                                                </a>
+                                            </li>
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/usados-bancolombia" title="" target="" id="header-productos-usados">Venta de usados</a>
+                                            </li>
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="https://renting.rentingcolombia.com" id="header-productos-renta">Renta de vehículos</a>
+                                            </li>
+                                            <!-- /col -->                                                                 
+                                        </ul>
+                                </div>
+                                <div class="col-sm-4 cardcenter">
+                                    <h3 class="submenu-title "><br></h3>
+                                    <h3 class="submenu-title ">Canales para tu servicio</h3>
+                                        <ul class="desktop-submenu_list ">
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/productos-servicios/canales-servicio/sucursal-web/sucursal-virtual-personas" title="" target="" id="header-canales-svp">
+                                                    Sucursal Virtual Personas
+                                                  </a>
+                                            </li>
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/solicitud-de-productos/cuentas" title="" target="" id="header-canales-productos">
+                                                    Solicitar productos
+                                                  </a>
+                                            </li>
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/productos-servicios/canales-servicio/movil/bancolombia-app" title="" target="" id="header-canales-app">
+                                                    Bancolombia App
+                                                  </a>
+                                            </li>
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/productos-servicios/canales-servicio/fisico/corresponsal-bancario" title="" target="" id="header-canales-corresponsal">
+                                                    Corresponsal Bancario
+                                                  </a>
+                                            </li>
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/productos-servicios/canales-servicio/fisico/cajero-multifuncional" title="" target="" id="header-canales-multifuncional">
+                                                    Cajero Multifuncional
+                                                  </a>
+                                            </li>
+                                            <!-- /col -->                                                                 
+                                        </ul>
+                                </div>
+                                <div class="col-sm-4 cardcenter">
+                                    <h3 class="submenu-title "><br></h3>
+                                  <h3 class="submenu-title "><br></h3>
+                                        <ul class="desktop-submenu_list ">
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/productos-servicios/canales-servicio/telefonico" title="" target="" id="header-canales-telefonico">
+                                                    Sucursal telefónica
+                                                  </a>
+                                            </li>
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/productos-servicios/canales-servicio/sucursal-web/multipagos-pse" title="" target="" id="header-canales-pse">
+                                                    Multipagos PSE
+                                                  </a>
+                                            </li>
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/productos-servicios/canales-servicio/fisico/sucursal-fisica" title="" target="" id="header-canales-fisica">
+                                                    Sucursal Física
+                                                  </a>
+                                            </li>
+                                            <li class="desktop-submenu_item desktop-submenu_item--pane">
+                                                <a href="/personas/productos-servicios/canales-servicio/fisico/cajeros-automaticos" title="" target="" id="header-canales-cajero">
+                                                    Cajero Automático
+                                                  </a>
+                                            </li>
+                                            <!-- /col -->                                                                 
+                                        </ul>
+                                </div>
+                                <div class="col-sm-4 cardcenter">
+                                    <h3 class="submenu-title "><br></h3>
+                                      <h3 class="submenu-title "><br></h3>
+                                    <h3 class="submenu-title "><a href="/personas/productos-servicios/canales-servicio" title="" target="" class="underline submenu-title" id="header-canales-otros" style="text-decoration: underline;">Conoce otros canales</a></h3>
+                                </div>
+
+                            </div>
+                            <!-- /row -->
+                        </div>
+                          <!--/container -->
+                      </div>
+                  </li>
+                  <!-- /header-nav_item -->
+                  <li class="old-header-menu_item">
+                      <a href="/educacion-financiera" title="" target="" class="old-header-menu_link">Educación financiera</a>
+                  </li>
+                  <!-- /header-nav_item -->
+                  <li class="old-header-menu_item">
+                </li>
+              </ul>
+              <!-- /header-nav_menu -->
+          </nav>
+          <!-- /header-nav -->
+          <div class="old-header-main_btns">
+             <!-- <a href="/personas/solicitud-de-productos/cuentas" title="" target="" class="u-button u-button--icon shadow-gray  borders">
+Solicitar productos
+</a>-->
+              <div class="menu-transactions">
+                  <div class="has-submenu">
+                      <a href="https://sucursalpersonas.transaccionesbancolombia.com/cb/pages/jsp-ns/login-mada.jsp" target="_blank" class="menu-transactions_link" id="old-transaction_link">Sucursal Virtual Personas</a>
+                      <div class="menu-transactions_submenu">
+                          <a href="https://sucursalpersonas.transaccionesbancolombia.com/cb/pages/jsp-ns/login-mada.jsp" alt="Entrar a la Sucursal Virtual Personas" class="old-sucursal-virtual">Sucursal Virtual Personas</a>
+<a href="https://sucursalvirtualpyme.bancolombia.com" alt="Entrar a la Sucursal Virtual Pymes" class="old-sucursal-virtual">Sucursal Virtual Pymes</a>
+                          <a href="https://sucursalempresas.transaccionesbancolombia.com/SVE/control/BoleTransactional.bancolombia" alt="Entrar a la Sucursal Virtual Empresas" class="old-sucursal-virtual">Sucursal Virtual Empresas</a>
+                          <a href="https://portal.psepagos.com.co/web/bancolombia/buscador" target="_blank" alt="Entrar a la Sucursal de Pagos PSE" class="old-sucursal-virtual">Pagos PSE</a>
+                          <a href="/personas/transacciones" title="" target="" class="underline font-bold">Ver más</a>
+                      </div>
+                  </div>
+                  <a href="#" class="button-primary small btnamarillo" id="old-btn-transaccional">Entrar</a>
+              </div>
+          </div>
+          <!-- /col -->
+      </div>
+      <div>
+          <button id="old-mobile-button" class="old-mobile-button" aria-label="Menu">
+<span class="mobile-navigation_bar" aria-hidden="true"></span>
+</button>
+      </div>
+      <!--- /row -->
+  </div>
+  <!-- /container -->
+
+  <div class="old-mobile-navigation" id="old-mobile-navigation">
+      <div class="mobile-navigation_cont">
+          <div class="mobile-navigation_logo old-mobile-navigation_logo">
+              <figure itemscope="" itemtype="http://schema.org/brand">
+                  <a href="/personas" title="" target="">
+                    <span class="icon-bco icon-logos-Bancolombia-primario-positivo"></span>
+                  </a>
+              </figure>
+              <!-- /Figure -->
+              <button class="button-close" aria-label="Cerrar" id="button-close">
+<span aria-hidden="true"></span>
+<span aria-hidden="true"></span>
+</button>
+          </div>
+          <div class="mobile-navigation_pane color-default">
+              <nav class="mobile-navigation_nav">
+                              <div class="has-submenu">
+                                  <div class="menu-transactions has-submenu">
+                                      <a href="https://sucursalpersonas.transaccionesbancolombia.com/cb/pages/jsp-ns/login-mada.jsp" class="menu-transactions_link mobile" id="old-transaction_link_mobile">Sucursal Virtual Personas</a>
+                                      <div class="menu-transactions_submenu">
+                                          <a href="https://sucursalpersonas.transaccionesbancolombia.com/cb/pages/jsp-ns/login-mada.jsp" title="Entrar a la Sucursal Virtual Personas" class="old-sucursal-virtual">Sucursal Virtual Personas</a>
+<a href="https://sucursalvirtualpyme.bancolombia.com" alt="Entrar a la Sucursal Virtual Pymes" class="old-sucursal-virtual">Sucursal Virtual Pymes</a>
+                                          <a href="https://www.grupobancolombia.com/wps/portal/empresas/productos-servicios/canales-servicio/sucursal-web/sucursal-virtual-empresas" title="Entrar a la Sucursal Virtual Empresas" class="old-sucursal-virtual">Sucursal Virtual Empresas</a>
+                                          <a href="https://www.grupobancolombia.com/personas/productos-servicios/canales-servicio/sucursal-web/multipagos-pse" title="Entrar a la Sucursal de Pagos PSE" class="old-sucursal-virtual">Pagos PSE</a>
+                                          <a href="https://www.grupobancolombia.com/personas/transacciones" class="underline font-bold">Ver más</a>
+                                      </div>
+                                  </div>
+                                  <div class="boton-transaccional">
+                                      <a href="javascript:;" id="old-btn-transaccional-mobile" class="button-primary">Entrar</a>
+                                  </div>
+                              </div>
+                              <ul class="mobile-navigation_menu">
+                      <li class="has-submenu submenu_primary">
+                          <a href="" class="mobile-navigation_link">Personas</a>
+                          <ul class="mobile-submenu old-submenu-accordion">
+                            <li class="mobile-submenu_item text-center radiopersonas">
+                                <a href="/personas/solicitud-de-productos/cuentas" title="" target="" id="header-mobile-solicitud-productos"> Solicitar productos</a>
+                            </li>
+                              <!-- /mobile-submenu_item -->
+                              <li class="mobile-submenu_item has-submenu">
+                                <a href="#" id="header-mobile-necesidades" class="">Necesidades</a>
+                                <ul class="submenu-three old-submenu-accordion">
+                                  
+                                        <li>
+                                            <a href="/personas/necesidades/documentos" title="" target="" class="submenu-three_link" id="mobile-Solicitud-de-documentos">Solicitud de documentos</a>
+                                        </li>
+                                        <!-- /li -->
+                                        <li>
+                                            <a href="/personas/movilidad" title="" target="" class="submenu-three_link" id="mobile-Soluciones-de-privada">Soluciones de movilidad privada</a>
+                                        </li>
+                                        <!-- /li -->
+                                        <li>
+                                            <a href="/personas/vivienda" title="" target="" class="submenu-three_link" id="mobile-Soluciones-de-vivienda">Soluciones de vivienda</a>
+                                        </li>
+                                        <!-- /li -->
+                                        <li>
+                                            <a href="/pagos" title="" target="" class="submenu-three_link" id="mobile-Soluciones-de-pago">Soluciones de pago</a>
+                                        </li>
+                                        <!-- /li -->
+                                        <li>
+                                            <a href="/personas/movilidad/publica" title="" target="" class="submenu-three_link" id="mobile-Soluciones-de-movilidad">Soluciones de movilidad pública</a>
+                                        </li>
+                                        <!-- /li -->
+
+                                        <li>
+                                            <a href="/personas/banco-para-todos/ninos" title="" target="" class="submenu-three_link" id="mobile-Para-los-ninos">Para los niños</a>
+                                        </li>
+                                        <!-- /li -->
+                                        <li>
+                                            <a href="/personas/banco-para-todos/jovenes" title="" target="" class="submenu-three_link" id="mobile-Para-los-jovenes">Para los jóvenes</a>
+                                        </li>
+                                        <!-- /li -->
+                                        <li>
+                                            <a href="/personas/banco-para-todos/familia" title="" target="" class="submenu-three_link" id="mobile-Para-la-familia">Para la familia</a>
+                                        </li>
+                                        <!-- /li -->
+                                        <li>
+                                            <a href="/personas/banco-para-todos/colombianos-en-el-exterior" title="" target="" class="submenu-three_link" id="mobile-Colombianos-en-el-exterior">Colombianos en el exterior</a>
+                                        </li>
+                                        <!-- /li -->
+                                        <li>
+                                            <a href="/personas/banco-para-todos/preferencial" title="" target="" class="submenu-three_link" id="mobile-Cliente-Preferencial">Cliente Preferencial</a>
+                                        </li>
+                                        <!-- /li -->
+                                        <li>
+                                            <a href="/personas/banco-para-todos/privada" title="" target="" class="submenu-three_link" id="mobile-Banca-Privada">Banca Privada</a>
+                                        </li>
+                                        <!-- /li -->
+<li>
+  <a href="/personas/banco-para-todos/independientes" title="" target="" id="mobile-Cliente-Independiente">Cliente Independiente</a>
+                                            </li>
+
+                                        <li>
+                                            <a href="/personas/beneficios" title="" target="" class="submenu-three_link" id="mobile-Ofertas-y-beneficios ">Ofertas y beneficios </a>
+                                        </li>
+                                        <!-- /li -->
+                                        <li>
+                                            <a href="https://solicitud-turno.apps.bancolombia.com/cliente/bienvenido" class="submenu-three_link" id="mobile-Solicitud-turno-sucursales">Solicitud de turno en sucursales</a>
+                                        </li>
+                                        <!-- /li -->
+                                        <li>
+                                            <a href="/tu360" title="" target="" class="submenu-three_link" id="header-mobile-Tu360">Tu360</a>
+                                        </li>
+                                        <!-- /li -->
+
+
+
+                                    </ul>
+                                  <!-- /mobile-submenu-3 -->
+                              </li>
+                              <!-- /mobile-submenu_item -->
+                              <li class="mobile-submenu_item has-submenu">
+                                <a href="#" id="header-mobile-productos">Productos y Servicios</a>
+                                  <ul class="submenu-three old-submenu-accordion">
+                                    <li>
+                                        <a href="/personas/cuentas" title="" target="" class="submenu-three_link" id="header-mobile-productos-cuentas">Cuentas</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/tarjetas-debito" title="" target="" class="submenu-three_link" id="header-mobile-productos-debito">Tarjetas Débito</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/tarjetas-de-credito" title="" target="" class="submenu-three_link" id="header-mobile-productos-tdc">Tarjetas de Crédito</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/creditos" title="" target="" class="submenu-three_link" id="header-mobile-productos-credito">Créditos</a>
+                                      </li>
+                                      <!-- /li -->
+                                      
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/seguros" title="" target="" class="submenu-three_link" id="header-mobile-productos-seguros">Seguros y asistencias</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/inversiones" title="" target="" class="submenu-three_link" id="header-mobile-productos-inversiones">Inversiones</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/giros" title="" target="" class="submenu-three_link" id="header-mobile-productos-giros">Giros</a>
+                                      </li>
+<li>
+                                        <a href="/personas/a-la-mano" title="" target="" class="submenu-three_link" id="header-mobile-productos-a-la-mano">Bancolombia A la Mano</a>
+                                      </li>
+<li>
+                                        <a href="/personas/productos-servicios/leasing" title="" target="" class="submenu-three_link" id="header-mobile-productos-leasing">Leasing</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/pagos" title="" target="" class="submenu-three_link" id="header-mobile-productos-pagos">Servicios de pago</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/compra-venta-dolares-efectivo" title="" target="" class="submenu-three_link" id="header-mobile-productos-dolares">Compra y venta de dólares</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/usados-bancolombia" title="" target="" class="submenu-three_link" id="header-mobile-productos-usados">Venta de usados</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="https://renting.rentingcolombia.com" class="submenu-three_link" id="header-mobile-productos-renta">Renta de vehículos</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/canales-servicio" title="" target="" class="submenu-three_link" id="header-mobile-canales">Conoce nuestros canales</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/canales-servicio/sucursal-web/sucursal-virtual-personas" title="" target="" class="submenu-three_link" id="header-mobile-canales-svp">Sucursal Virtual Personas</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/solicitud-de-productos/cuentas" title="" target="" class="submenu-three_link" id="header-mobile-canales-productos">Solicitar productos</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/canales-servicio/movil/bancolombia-app" title="" target="" class="submenu-three_link" id="header-mobile-canales-app">Bancolombia App</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/canales-servicio/fisico/corresponsal-bancario" title="" target="" class="submenu-three_link" id="header-mobile-canales-corresponsal">Corresponsal Bancario</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/canales-servicio/telefonico" title="" target="" class="submenu-three_link" id="header-mobile-canales-telefonica">Sucursal Telefónica</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/canales-servicio/sucursal-web/multipagos-pse" title="" target="" class="submenu-three_link" id="header-mobile-canales-pse">Multipagos PSE</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/canales-servicio/fisico/sucursal-fisica" title="" target="" class="submenu-three_link" id="header-mobile-canales-fisica">Sucursal Física</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/canales-servicio/fisico/cajeros-automaticos" title="" target="" class="submenu-three_link" id="header-mobile-canales-cajero">Cajero Automático</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/personas/productos-servicios/canales-servicio/fisico/cajero-multifuncional" title="" target="" class="submenu-three_link" id="header-mobile-canales-multifuncional">Cajero Multifuncional</a>
+                                      </li>
+                                      <!-- /li -->
+                                    </ul>
+                                    <!-- /submenu-three submenu-accordion -->
+                                  </li>
+                                <!-- /mobile-submenu_item -->
+                                <li class="mobile-submenu_item">
+                                    <a href="/educacion-financiera" title="" target="" id="header-mobile-canales-aprender">Educación Financiera</a>
+                                  </li>
+                          </ul>
+                          <!-- /submenu -->
+                      </li>
+                      <!-- /mobile-navigation_menu menus-->
+                     <li class="has-submenu submenu_primary">
+                          <a class="mobile-navigation_link">Negocios</a>
+                      <ul class="mobile-submenu old-submenu-accordion">
+                            <li class="mobile-submenu_item text-center radiopersonas">
+                                <a href="https://www.bancolombia.com/empresas/necesidades/documentos" id="header-mobile-TUSolicitud">Solicitud de documentos</a>
+                            </li>
+                            <li class="mobile-submenu_item">
+                                <a href="https://www.bancolombia.com/negocios" id="header-mobile-Inicio">Inicio</a>
+                            </li>
+                            <li class="mobile-submenu_item">
+                                <a href="https://www.bancolombia.com/negocios/actualizate" id="header-mobile-Actualizate">Actualízate</a>
+                            </li>
+                            <li class="mobile-submenu_item">
+                                <a href="https://www.bancolombia.com/negocios/productos-financieros" id="header-mobile-Productos-Financieros">Productos Financieros</a>
+                            </li>
+                            <li class="mobile-submenu_item">
+                                <a href="https://www.bancolombia.com/negocios/herramientas" id="header-mobile-Herramientas">Herramientas</a>
+                            </li>
+                            <li class="mobile-submenu_item">
+                                <a href="https://www.bancolombia.com/negocios/aliados" id="header-mobile-Aliados">Aliados</a>
+                            </li>
+                            <li class="mobile-submenu_item has-submenu">
+                                <a href="#" title="" target="" id="header-mobile-Formacion">Formación</a>
+                                <ul class="submenu-three submenu-accordion">
+                                    <li>
+                                        <a href="https://www.bancolombia.com/negocios/formacion" class="submenu-three_link" id="header-mobile-Social">Social Selling</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.bancolombia.com/negocios/comercio-internacional/importar/empezar/incoterms" class="submenu-three_link" id="header-mobile-Incoterms">Incoterms</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="mobile-submenu_item has-submenu">
+                                <a href="#" title="" target="" id="header-mobile-Sectores">Sectores</a>
+                                <ul class="submenu-three submenu-accordion">
+                                    <li>
+                                        <a href="https://www.bancolombia.com/negocios/sectores/agroindustria" class="submenu-three_link" id="header-mobile-Agroindustria">Agroindustria</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.bancolombia.com/negocios/sectores/comercios" class="submenu-three_link" id="header-mobile-Comercio">Comercio</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="mobile-submenu_item">
+                                <a href="https://www.bancolombia.com/negocios/comercio-internacional" id="header-mobile-Comercio-Internacional">Comercio Internacional</a>
+                            </li>
+                           <!-- <li class="mobile-submenu_item">
+                                <a href="https://www.bancolombia.com/tu360/negocios"  id="header-mobile-TU360Negocios">TU360Negocios</a>
+                            </li>     -->                   
+
+                        </ul>
+                    </li>
+                      <!-- /li -->
+                      <li class="has-submenu submenu_primary">
+                        <a href="#" class="mobile-navigation_link" id="header-mobile-empresas">Corporativos</a>
+                          <ul class="mobile-submenu old-submenu-accordion">
+                                                <li class="mobile-submenu_item">
+                                    <a href="/wps/portal/empresas" title="" target="" id="header-mobile-empresa">Corporativos</a>
+                                </li>
+                            <li class="mobile-submenu_item">
+                                <a href="/wps/portal/empresas/transacciones" title="" target="" id="header-mobile-transacciones"> Transacciones</a>
+                              </li>
+                              <!-- /mobile-submenu_item -->
+                              <li class="mobile-submenu_item">
+                                <a href="/wps/portal/empresas/necesidades/documentos" title="" target="" id="header-mobile-empresas-documentos"><img src="" alt="" aria-hidden="true">
+                                  Solicitud de documentos
+                                </a>
+                              </li>
+                              <!-- /mobile-submenu_item -->
+                              <li class="mobile-submenu_item">
+                                <a href="/wps/portal/empresas/necesidades/empiece-un-negocio" title="" target="" id="header-mobile-empresas-negocio">Empieza tu negocio</a>
+                              </li>
+                              <!-- /mobile-submenu_item -->
+                              <li class="mobile-submenu_item has-submenu">
+                                <a href="#" id="header-mobile-necesidades-pymes">Necesidades PYMES</a>
+                                  <ul class="submenu-three old-submenu-accordion">
+                                    <li>
+                                        <a href="/wps/portal/empresas/necesidades/pymes/soluciones-financiacion" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-pymes-soluciones">Soluciones de financiación</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/pymes/pagar-recaudar" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-pymes-pagar">Pagar y recaudar</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/pymes/inversion-liquidez" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-pymes-inversion">Inversión de liquidez</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <!-- <li>
+                                        <a href="/wps/portal/empresas/necesidades/pymes/comercio-internacional" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-pymes-internacional">Comercio internacional</a>
+                                      </li> -->
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/pymes/cobertura-riesgos" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-pymes-riesgos">Cobertura de riesgos</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/pymes/estructuracion-negocios" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-pymes-negocios">Estructuración de negocios</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/documentos" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-pymes-documentos">Solicitud de documentos</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/pymes/sectores/agroindustria" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-pymes-agroindustrias">Agroindustrias</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/pymes/sectores/contratistas" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-pymes-contratistas">Contratistas</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/pymes/sectores/comercio" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-pymes-comercio">Comercio</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/pymes/sectores/colegios-universidades" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-pymes-colegios">Colegios y universidades</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/pymes/beneficios-negocio-empleados" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-pymes-beneficios">Beneficios para tu negocio y tus empleados</a>
+                                      </li>
+                                      <!-- /li -->
+                                  </ul>
+                                  <!-- /submenu-three old-submenu-accordion -->
+                              </li>
+                              <!-- /mobile-submenu_item -->
+                              <li class="mobile-submenu_item has-submenu">
+                                <a href="#" id="header-mobile-necesidades-empresas">Necesidades Empresas</a>
+                                  <ul class="submenu-three old-submenu-accordion">
+                                    <li>
+                                        <a href="/wps/portal/empresas/necesidades/empresas/soluciones-financiacion" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-empresas-soluciones">Soluciones de financiación</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/empresas/administrar-liquidez" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-empresas-liquidez">Administración de liquidez</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/empresas/gestion-tesoreria" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-empresas-tesoreria">Gestión de tesorería</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/empresas/cobertura-riesgos" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-empresas-riesgos">Cobertura de riesgos</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/empresas/estructuracion-negocios" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-empresas-negocios">Estructuración de negocios</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/empresas/bienestar-empleados-proveedores-accionistas" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-empresas-bienestar">Bienestar para tus empleados</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/documentos" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-empresas-documentos">Solicitud de documentos</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/empresas/experiencia-sectorial" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-empresas-experiencia">Experiencia sectorial</a>
+                                      </li>
+                                      <!-- /li -->
+                                  </ul>
+                                  <!-- /submenu-three old-submenu-accordion -->
+                              </li>
+                              <!-- /mobile-submenu_item -->
+                              <li class="mobile-submenu_item has-submenu">
+                                <a href="#" id="header-mobile-necesidades-gobierno">Necesidades Gobierno</a>
+                                  <ul class="submenu-three old-submenu-accordion">
+                                    <li>
+                                        <a href="/wps/portal/empresas/necesidades/gobierno/soluciones-financiacion" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-gobierno-soluciones">Soluciones de financiación</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/gobierno/administrar-liquidez" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-gobierno-liquidez">Administración de liquidez</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/gobierno/gestion-tesoreria" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-gobierno-tesoreria">Gestión de tesorería</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/gobierno/cobertura-riesgos" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-gobierno-riesgos">Cobertura de riesgos</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/gobierno/estructuracion-negocios" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-gobierno-negocios">Estructuración de negocios</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/gobierno/bienestar-empleados-proveedores-accionistas" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-gobierno-bienestar">Bienestar para tus empleados</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/documentos" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-gobierno-documentos">Solicitud de documentos</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/necesidades/empresas/experiencia-sectorial" title="" target="" class="submenu-three_link" id="header-mobile-necesidades-gobierno-experiencia">Experiencia sectorial</a>
+                                      </li>
+                                      <!-- /li -->
+                                  </ul>
+                                  <!-- /submenu-three old-submenu-accordion -->
+                              </li>
+                              <!-- /mobile-submenu_item -->
+                              <li class="mobile-submenu_item has-submenu">
+                                <a href="#" id="header-mobile-empresas-productos">Productos y Servicios</a>
+                                  <ul class="submenu-three old-submenu-accordion">
+                                    <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/creditos" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-creditos">Créditos</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/tarjetas-credito" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-tdc">Tarjetas de Crédito</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/inversiones" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-inversiones">Inversiones</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/cuentas-depositos" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-deposito">Cuentas de Depósito</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/cash-management" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-management">Cash Management</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/derivados" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-derivados">Derivados</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/seguros" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-seguros">Seguros</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/negocios-fiduciarios" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-fiduciarios">Negocios Fiduciarios</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/banca-inversion" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-inversion">Banca de inversión</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/leasing" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-leasing">Leasing</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/factoring" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-factoring">Factoring</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/renting" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-renting">Renting</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/operaciones-moneda-extranjera" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-moneda">Operaciones en Moneda Extranjera</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/como-ser-corresponsal-bancario" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-corresponsal">Ser Corresponsal Bancario</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/canales-servicio" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-canales">Conoce nuestros canales y administra tus productos en
+                                          forma ágil y segura</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/canales-servicio/sucursal-web/sucursal-virtual-empresas" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-sve">Sucursal Virtual Empresa</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/canales-servicio/sucursal-telefonica/linea-empresas" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-linea">Línea Empresas</a>
+                                      </li>
+                                      <!-- /li -->
+                                      <li>
+                                        <a href="/wps/portal/empresas/productos-servicios/inmobiliaria-vivienda/" title="" target="" class="submenu-three_link" id="header-mobile-empresas-productos-linea">Inmobiliaria y Vivienda</a>
+                                      </li>
+                                      <!-- /li -->
+
+                                  </ul>
+                                  <!-- /submenu-three old-submenu-accordion -->
+                              </li>
+                              <!-- /mobile-submenu_item -->
+                              <li class="mobile-submenu_item">
+                                <a href="/wps/portal/empresas/capital-inteligente" title="" target="" id="header-mobile-empresas-capital-inteligente">Capital Inteligente</a>
+                              </li>
+                          </ul>
+                      </li>
+                      
+                      <!-- /li -->
+                      <li class="has-submenu submenu_primary">
+                        <a href="#" class="mobile-navigation_link" id="header-mobile-negocios">Negocios Especializados</a>
+                                  <ul class="mobile-submenu old-submenu-accordion">
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://bancainversion.grupobancolombia.com" id="header-mobile-negocios-banca">Banca de Inversión Bancolombia</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://fiduciaria.grupobancolombia.com" id="header-mobile-negocios-fiduciaria">Fiduciaría Bancolombia</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://leasing.grupobancolombia.com" id="header-mobile-negocios-leasing">Leasing Bancolombia</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://renting.grupobancolombia.com" target="_blank" id="header-mobile-negocios-renting">Renting Colombia</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://valores.grupobancolombia.com" id="header-mobile-negocios-valores">Valores Bancolombia</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://factoring.grupobancolombia.com" id="header-mobile-negocios-factoring">Factoring Bancolombia</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://assetmanagement.grupobancolombia.com" id="header-mobile-negocios-managment">Bancolombia Asset Management</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                      <!-- <li>
+                                        <a href="https://comerciointernacional.grupobancolombia.com"  id="header-mobile-negocios-internacional">Comercio Internacional</a>
+                                      </li> -->
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://sufi.grupobancolombia.com" id="header-mobile-negocios-sufi">Sufi</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                     <!-- <li>
+                                        <a href="https://www.tuya.com.co"  id="header-mobile-negocios-tuya">Tuya</a>
+                                      </li>-->
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://valoresbanistmo.grupobancolombia.com" id="header-mobile-negocios-valores-banistmo">Valores Banistmo</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://sucursalpanama.grupobancolombia.com" id="header-mobile-negocios-sucursal-panama">Sucursal Panamá</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://panama.grupobancolombia.com" id="header-mobile-negocios-bancolombia-panama">Bancolombia Panamá</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://puertorico.grupobancolombia.com" id="header-mobile-negocios-bancolombia-pr">Bancolombia Puerto Rico</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://www.banistmo.com" id="header-mobile-negocios-banistmo">Banistmo</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://www.bancoagricola.com" id="header-mobile-negocios-agricola">Banco Agrícola</a>
+                                      </li>
+                                      <!-- /moile-submenu_item -->
+                                      <li>
+                                        <a href="https://www.bam.com.gt" id="header-mobile-negocios-bam">BAM (Banco Agromercantil de Guatemala)</a>
+                                      </li>
+                                      <!-- /mobile-submenu_item -->
+                                  </ul>
+                              </li>
+                              <li class="submenu_notLink submenu_primary">
+                                <a href="/tu360" class="mobile-navigation_link" id="header-mobiltu360">TU360</a>
+                            </li>
+                          <li class="submenu_notLink submenu_primary">                               
+                                <a href="/personas/documentos-legales/transparencia-acceso-informacion" title="" target="" class="mobile-navigation_link" id="header-mobile-Transparencia">Transparencia</a>
+                            </li>
+                            <li class="submenu_notLink submenu_primary">
+                                <a href="/personas/consumidor-financiero" title="" target="" class="mobile-navigation_link" id="header-mobile-Consumidor">Consumidor</a>                             
+                            </li> 
+                          </ul>
+                      </nav>
+           
+          </div>
+      </div>
+      <!-- /mobile-navigation_cont. -->
+  </div>
+</header>
+<script src="/wcm/connect/www.bancolombia.com-26918/fd688a98-d3b6-4858-8831-fe2324ecf36b/general.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-fd688a98-d3b6-4858-8831-fe2324ecf36b-nh7DkvO"></script>
+<script src="/wcm/connect/www.bancolombia.com-26918/953b9ec0-d5f4-47e0-b1f2-61cc440a546a/header-intermas.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-953b9ec0-d5f4-47e0-b1f2-61cc440a546a-nzwMm9X"></script>
+
+	<div class="breadcrumbs" id="breadcrumbs">
+		
+            <div class="container container-max">
+                <ul itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">							
+                    								
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                										
+                                <a itemprop="item" href="/personas">
+                                        <span itemprop="name">Personas</span>
+                                        <meta itemprop="position" content="1">
+                                </a>										
+                            </li>
+                    								
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                										
+                                <a itemprop="item" href="/personas/productos-servicios">
+                                        <span itemprop="name">Productos y Servicios</span>
+                                        <meta itemprop="position" content="2">
+                                </a>										
+                            </li>
+                    								
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                										
+                                <a itemprop="item" href="/personas/productos-servicios/compra-venta-dolares-efectivo">
+                                        <span itemprop="name">Compra y Venta de Dólares en Efectivo</span>
+                                        <meta itemprop="position" content="3">
+                                </a>										
+                            </li>
+                    
+                </ul>
+            </div>
+		
+	</div>
+<div style="display:none" id="portletState">{}</div>
+
+
+
+
+
+
+
+
+
+        
+           
+
+
+
+
+
+
+
+
+
+	
+		<div class="component-control id-Z7_6G9A1280LGNTB0AMONGHUI04I6"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <script src="" type="text/javascript"></script>
+<style>
+#main-content {
+    background: rgba(0, 0, 0, 0) url("") repeat scroll center bottom;
+}
+/* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+.encabezado.titulo-contenido{
+float: none;
+margin: 0 !important;
+}
+.encabezado>.fondo{
+height: 130px;
+}
+    }
+.circle-div {
+    border: 5px solid #ffd200;
+    border-radius: 50%;
+    background: #fff;
+    height: 220px;
+    width: 220px;
+    position: relative;
+    display: block;
+    margin: auto;
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / 20%);
+}
+
+.circle-div img {
+    position: absolute;
+    width: 100%;
+    max-width: 124px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.video{
+color: #211915;
+    text-decoration: underline;
+    padding-top: 1rem;
+    cursor: pointer;
+}
+.icon-so {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    background: #fffF;
+    border-radius: 50%;
+    top: 84%;
+    left: 90%;
+    transform: translate(-90%, -84%);
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / 20%);
+}
+
+.icon-so img {
+    position: absolute;
+    width: 100%;
+    max-width: 50px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title-so h2 {
+    text-align: center;
+    font-size: 18px;
+    font-family: nunito;
+    font-weight: 700;
+    padding-top: 22px;
+}
+
+.title-so h1 {
+    font-size: 24px;
+    padding-bottom: 30px;
+    font-family: nunito;
+    font-weight: 700;
+    margin-top: 60px !important;
+}
+
+.c-modal_container {
+    position: relative;
+    background-color: #fff;
+    padding: 0px 5px 35px 5px;
+    max-width: 100% !important;
+    max-height: 100vh;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 3px 15px rgb(0 0 0 / 10%);
+    box-shadow: 0 3px 15px rgb(0 0 0 / 10%);
+}
+
+.c-modal_close {
+    display: block;
+    position: absolute;
+    top: 20px;
+    right: 15px;
+    background-image: url(/wcm/connect/16d6e0f2-7138-4edc-bdc9-a0318bbfe73e/cerrar.svg?MOD=AJPERES);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    border: 0;
+    width: 30px;
+    height: 30px;
+    z-index: 5;
+    cursor: pointer;
+}
+</style>
+
+<link rel="stylesheet" href="/wcm/connect/www.bancolombia.com-26918/79850990-f6f9-449a-8ed8-3f2285262183/producto.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-79850990-f6f9-449a-8ed8-3f2285262183-nFjBoyo" type="text/css">
+
+<div class="encabezado titulo-contenido-boton" style="margin-bottom:0;">
+    <div class="fondo" style="background-image: url(/wcm/connect/www.bancolombia.com-26918/262572b5-b9fa-467b-88f1-c723d9983c0d/Negociacio%CC%81n-de-divisas-mesa-de-dinero.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-262572b5-b9fa-467b-88f1-c723d9983c0d-l2nrTyi); background-position: top center;">
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="content-banner col-md-6 col-xs-12">
+                
+                <h1>Compra y Venta Dólares en Efectivo</h1>
+                
+                <p dir="ltr">En Bancolombia queremos que la compra y venta de tus dólares en efectivo sea más rápida, cómoda y segura. ¿Cómo? Ubica la sucursal con Caja de Divisas más cercana, si eres cliente del banco puedes disfrutar del servicio de compra y venta de dólares. Ven con nosotros y vive una experiencia diferente.</p>
+
+                <div class="row botones">
+  <div class="col-sm-6">
+    <a href="/personas/buscador-sucursales/" title="Conoce las Sucursales con Cajas de Divisas" target="_blank" class="btn btn-primary">Conoce las Sucursales con Cajas de Divisas</a>
+</div>
+  <div class="col-sm-6">
+    <a href="/personas/contactanos/" title="Comunícate con nosotros" target="_blank" class="btn btn-primary">Comunícate con nosotros</a>
+  </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+<p>Este producto es ofrecido por Bancolombia S.A. Establecimiento Bancario.</p>
+    </div>
+</div>
+                <div class="row">
+                    <div class="col-sm-6" dir="ltr">
+                        
+                        
+
+                        
+                    </div>
+                    
+                    
+                    
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Simple -->
+    <div class="modal fade" id="ModalSimple" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content c-modal_container ">
+                <div class="py-2">
+                    <button type="button" class="c-modal_close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                        <!-- <i class="material-icons"></i> -->
+                    </button>
+                </div>
+                <div class="row content-img">
+                    <div class=" mb-4 mx-auto text-center title-so">
+                        <p></p>
+                    </div>
+                    <!-- In footer -->
+                    <!-- Put this in form place -->
+                    <div class="col-md-6">
+                        
+                    </div>
+                    <!-- In form place -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Dispositivos -->
+    <div class="modal fade" id="ModalDispositivos" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content c-modal_container ">
+                <div class="py-2">
+                    <button type="button" class="c-modal_close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                        <!-- <i class="material-icons"></i> -->
+                    </button>
+                </div>
+                <div class="row content-img">
+                    <div class=" mb-4 mx-auto text-center title-so">
+                        <p></p>
+                    </div>
+                    <!-- In footer -->
+                    <!-- Put this in form place -->
+                    <div class="col-md-6">
+                        <div class="circle-div">
+                            <img src="" class="img-responsive img-fluid">
+                        </div>
+                        <div class="icon-so">
+                            <img src="/wcm/connect/0466f140-2211-4d22-a29e-d91103478fef/android.png?MOD=AJPERES" alt="" class="img-responsive img-fuild">
+                        </div>
+                        <div class="title-so">
+                            <h2>Para dispositivos Android</h2>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="circle-div">
+                            <img src="" class="img-responsive img-fluid">
+                        </div>
+                        <div class="icon-so">
+                            <img src="/wcm/connect/5b58fd0b-124f-4087-8f45-7ff37b13511a/apple.png?MOD=AJPERES" alt="" class="img-responsive img-fuild">
+                        </div>
+                        <div class="title-so">
+                            <h2>Para dispositivos iOS</h2>
+                        </div>
+                    </div>
+                    <!-- In form place -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Embedido -->
+    <div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade" dir="ltr" id="miModal" role="dialog" tabindex="-1">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button aria-label="Close" class="modal_close" data-dismiss="modal" type="button">
+                        <span aria-hidden="true">x</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/JSWIltMFjSY?enablejsapi=1&amp;origin=https%3A%2F%2Fwww.bancolombia.com" width="560" data-gtm-yt-inspected-1285339_700="true" id="399186578" data-gtm-yt-inspected-1285339_4574="true" data-gtm-yt-inspected-117="true" data-gtm-yt-inspected-122="true" data-gtm-yt-inspected-92224505_300="true" data-gtm-yt-inspected-50591455_706="true" data-gtm-yt-inspected-185="true" title="YouTube video player"></iframe></div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal secundario simple-->
+    <div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade" dir="ltr" id="miModalSimple" role="dialog" tabindex="-1">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button aria-label="Close" class="modal_close" data-dismiss="modal" type="button">
+                        <span aria-hidden="true">x</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class=" mb-4 mx-auto text-center title-so">
+                        <p></p>
+                    </div>
+                    <!-- In footer -->
+                    <!-- Put this in form place -->
+                    <div class="col-md-6">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_416CH480L0EV00AUIMJM4M2074"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="container-fluid ">
+  <div class="row">
+    <div class="col-xs-12">
+      <div class="tabs-verticales container-fluid tabs-horizontal">
+        <div class="row">
+          <ul id="filialTabs" class="nav nav-tabs responsive col-sm-3 hidden-xs hidden-sm"><li class="active"><a href="#tab1">Beneficios y características</a></li><li class="none"><a href="#tab2">Documentos adicionales</a></li></ul>
+          <div class="tab-content responsive col-sm-9 hidden-xs hidden-sm"><div id="tab1" class="tab-pane active">
+<h2>Beneficios y características</h2>
+<h3 dir="ltr">Beneficios</h3>
+
+<ul class="list-basic" dir="ltr">
+	<li>Adquiere o cambia tus dólares en cualquiera de nuestras Cajas de Divisas ubicadas en más de 250 <a href="https://www.grupobancolombia.com/personas/buscador-sucursales" target="_blank">sucursales del país</a>.</li>
+</ul>
+
+<h3 dir="ltr">Características</h3>
+
+<ul class="list-basic" dir="ltr">
+	<li>Si eres cliente Bancolombia, compramos tus dólares para que puedas recibir los pesos que necesitas.</li>
+	<li>Si eres cliente Bancolombia, puedes adquirir dólares en efectivo.</li>
+	<li>La tasa de cambio utilizada para esta operación dependerá de las condiciones de mercado. Actualmente se tienen establecidos tres cortes en el día para el cambio de tasa 8:00am, 10:00am y 1:00pm*, por esto es importante que antes de realizar tu operación valides la tasa vigente.</li>
+</ul>
+
+<p dir="ltr" style="font-size: 12px;"><span style="font-size:11px;">*Podrían presentarse cortes adicionales durante el día de acuerdo a las volatilidades presentadas durante el día.</span></p>
+
+</div><div id="tab2" class="tab-pane">
+<h2>Documentos adicionales</h2>
+<p dir="ltr">Para la Compra y Venta de Dólares descarga los documentos necesarios aquí.</p>
+
+<table class="table-responsive" dir="ltr">
+  <thead>
+    <tr>
+      <th>Documento</th>
+      <th>PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!--<tr>
+      <td>Solicitud venta de divisas</td>
+      <td><a href="/wcm/connect/www.bancolombia.com-26918/8b61910e-1eb4-40b4-bf5f-63800f050c5f/FD_SolicitudVentaDivisas.pdf?MOD=AJPERES&CVID=kY4TpnG" target="_blank" ><img src="/wcm/connect/www.bancolombia.com-26918/4d2f70fb-2382-418b-8d75-adb8e7790de4/pdf-icon+%281%29.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-4d2f70fb-2382-418b-8d75-adb8e7790de4-ld2c58b" /></a></td>
+    </tr>-->
+    <tr>
+      <td data-th="Documento"><span class="bt-content">Declaración de venta en efectivo</span></td>
+      <td data-th="PDF"><span class="bt-content"><a href="/wcm/connect/www.bancolombia.com-26918/21a5c019-9904-4b54-b9e8-d14f8c48e76e/F-543.pdf?MOD=AJPERES&amp;CVID=kY4TcMt" target="_blank"><img src="/wcm/connect/www.bancolombia.com-26918/4d2f70fb-2382-418b-8d75-adb8e7790de4/pdf-icon+%281%29.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-4d2f70fb-2382-418b-8d75-adb8e7790de4-ld2c58b"></a></span></td>
+    </tr>
+    <tr>
+      <td data-th="Documento"><span class="bt-content">Origen de divisas F-1035</span></td>
+      <td data-th="PDF"><span class="bt-content"><a href="/wcm/connect/www.bancolombia.com-26918/85f50c7b-4067-4ebb-b96f-6a431dfa9e3b/F-1035-8000405-V2+Planilla+Origen+Divisas+Efectivo+%281%29.pdf?MOD=AJPERES&amp;CVID=nDI8s5L" target="_blank"><img src="/wcm/connect/www.bancolombia.com-26918/4d2f70fb-2382-418b-8d75-adb8e7790de4/pdf-icon+%281%29.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-4d2f70fb-2382-418b-8d75-adb8e7790de4-ld2c58b"></a></span></td>
+    </tr>
+  </tbody>
+</table>
+</div></div><div class="acordeon  visible-xs visible-sm" id="collapse-85"><h3 class="titulo_acordeon">Beneficios y características<li class="pull-right glyphicon glyphicon-plus"></li></h3><div class="pane"><div class="row"><div id="collapse-tab1" class="col-xs-12 collapse in" aria-expanded="true" style="">
+<h2>Beneficios y características</h2>
+<h3 dir="ltr">Beneficios</h3>
+
+<ul class="list-basic" dir="ltr">
+	<li>Adquiere o cambia tus dólares en cualquiera de nuestras Cajas de Divisas ubicadas en más de 250 <a href="https://www.grupobancolombia.com/personas/buscador-sucursales" target="_blank">sucursales del país</a>.</li>
+</ul>
+
+<h3 dir="ltr">Características</h3>
+
+<ul class="list-basic" dir="ltr">
+	<li>Si eres cliente Bancolombia, compramos tus dólares para que puedas recibir los pesos que necesitas.</li>
+	<li>Si eres cliente Bancolombia, puedes adquirir dólares en efectivo.</li>
+	<li>La tasa de cambio utilizada para esta operación dependerá de las condiciones de mercado. Actualmente se tienen establecidos tres cortes en el día para el cambio de tasa 8:00am, 10:00am y 1:00pm*, por esto es importante que antes de realizar tu operación valides la tasa vigente.</li>
+</ul>
+
+<p dir="ltr" style="font-size: 12px;"><span style="font-size:11px;">*Podrían presentarse cortes adicionales durante el día de acuerdo a las volatilidades presentadas durante el día.</span></p>
+
+</div></div></div><h3 class="titulo_acordeon">Documentos adicionales<li class="pull-right glyphicon glyphicon-plus"></li></h3><div class="pane"><div class="row"><div id="collapse-tab2" class="col-xs-12">
+<h2>Documentos adicionales</h2>
+<p dir="ltr">Para la Compra y Venta de Dólares descarga los documentos necesarios aquí.</p>
+
+<table class="table-responsive" dir="ltr">
+  <thead>
+    <tr>
+      <th>Documento</th>
+      <th>PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!--<tr>
+      <td>Solicitud venta de divisas</td>
+      <td><a href="/wcm/connect/www.bancolombia.com-26918/8b61910e-1eb4-40b4-bf5f-63800f050c5f/FD_SolicitudVentaDivisas.pdf?MOD=AJPERES&CVID=kY4TpnG" target="_blank" ><img src="/wcm/connect/www.bancolombia.com-26918/4d2f70fb-2382-418b-8d75-adb8e7790de4/pdf-icon+%281%29.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-4d2f70fb-2382-418b-8d75-adb8e7790de4-ld2c58b" /></a></td>
+    </tr>-->
+    <tr>
+      <td data-th="Documento"><span class="bt-content">Declaración de venta en efectivo</span></td>
+      <td data-th="PDF"><span class="bt-content"><a href="/wcm/connect/www.bancolombia.com-26918/21a5c019-9904-4b54-b9e8-d14f8c48e76e/F-543.pdf?MOD=AJPERES&amp;CVID=kY4TcMt" target="_blank"><img src="/wcm/connect/www.bancolombia.com-26918/4d2f70fb-2382-418b-8d75-adb8e7790de4/pdf-icon+%281%29.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-4d2f70fb-2382-418b-8d75-adb8e7790de4-ld2c58b"></a></span></td>
+    </tr>
+    <tr>
+      <td data-th="Documento"><span class="bt-content">Origen de divisas F-1035</span></td>
+      <td data-th="PDF"><span class="bt-content"><a href="/wcm/connect/www.bancolombia.com-26918/85f50c7b-4067-4ebb-b96f-6a431dfa9e3b/F-1035-8000405-V2+Planilla+Origen+Divisas+Efectivo+%281%29.pdf?MOD=AJPERES&amp;CVID=nDI8s5L" target="_blank"><img src="/wcm/connect/www.bancolombia.com-26918/4d2f70fb-2382-418b-8d75-adb8e7790de4/pdf-icon+%281%29.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-4d2f70fb-2382-418b-8d75-adb8e7790de4-ld2c58b"></a></span></td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div></div>
+        </div>
+      </div>    
+    </div>
+  </div>
+</div>
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_416CH480L0EV00AUIMJM4M2076"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div id="" class="">
+  <div class="entradilla-con-fondo">
+    <div class="container-fluid">
+      <div class="row" style="clear: both">
+        <div class="col-sm-6 col-sm-push-6 contenido">
+          <h2>¡Un servicio rápido, cómodo y seguro para disfrutar!</h2>
+          <p dir="ltr">Si eres cliente Bancolombia puedes comprar y vender dólares en efectivo en nuestras Cajas de Divisas ¡Nuestras puertas están abiertas al mundo!</p>
+
+            <div class="row modalContent">
+                <div class="col-sm-6">
+    <a href="/personas/buscador-sucursales/" title="Conoce las Sucursales con Cajas de Divisas" target="_blank" class="btn btn-primary">Conoce las Sucursales con Cajas de Divisas</a>
+</div>
+  <div class="col-sm-6">
+    <a href="/personas/contactanos/" title="Comunícate con nosotros" target="_blank" class="btn btn-primary">Comunícate con nosotros</a>
+  </div>
+
+            </div>
+        </div>
+        <div class="col-sm-6 col-sm-pull-6 imagen"><img src="/wcm/connect/www.bancolombia.com-26918/df5d6d1f-4f67-4af1-a959-89b7f293908f/PE-Compra-venta-do%CC%81lares-en-efectivo%281%29.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-df5d6d1f-4f67-4af1-a959-89b7f293908f-l4wIc1z" alt="Compra y Venta de Dólares en Efectivo de Bancolombia" title="Compra y Venta de Dólares en Efectivo de Bancolombia" class="img-responsive center-block">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_416CH480L0EV00AUIMJM4M2075"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="salida calle-de-salida">
+  <div class="container-fluid">
+    <div class="row">
+      <div id="none" class="col-sm-12">
+        <h4></h4>
+        <p dir="ltr">Si Compra y Venta de Dólares en Efectivo no es lo que buscabas, te puede interesar <a href="/personas/productos-servicios/giros/compra-venta-divisas-de-contado/" target="" title="">Compra y Venta de Divisas </a>por la Mesa de Dinero Bancolombia.</p>
+
+      </div>
+    </div>
+  </div>
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_416CH480L0U5A0A1FPR5NN33K6"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class=" row-fluid" id="category-detail">
+  <div class="container-fluid">
+    <div class="row ">
+      <div class="col-xs-12">
+      <h2>También te puede interesar</h2>
+      </div>
+      <div class="col-md-6">
+  <div class="entradilla-con-imagenes row-fluid clearfix">
+    <div style="background-image: url(/wcm/connect/www.bancolombia.com-26918/2294238b-de24-4d35-ba63-9c64feea7c83/Giros-exterior.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-2294238b-de24-4d35-ba63-9c64feea7c83-lr3JZlA)" class="col-xs-12 imagen img-click">
+      <div class="flecha"></div>
+    </div>
+    <div class="col-xs-12 contenido">
+      <div class="leer-mas"><a href="/personas/productos-servicios/giros/internacionales-desde-el-exterior/" title="Giros Internacionales desde el exterior" target="">Leer más</a></div>
+      <h2><a href="/personas/productos-servicios/giros/internacionales-desde-el-exterior/" title="Giros Internacionales desde el exterior" target="">Giros Internacionales desde el exterior</a></h2>
+      
+    </div>
+  </div>
+</div><div class="col-md-6">
+  <div class="entradilla-con-imagenes row-fluid clearfix">
+    <div style="background-image: url(/wcm/connect/www.bancolombia.com-26918/29e18b2f-dcac-4fe8-88f5-3b5a4515446a/Giros-Internacionales-hacia-el-exterior-Resumen.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-29e18b2f-dcac-4fe8-88f5-3b5a4515446a-lr27qyy)" class="col-xs-12 imagen">
+      <div class="flecha"></div>
+    </div>
+    <div class="col-xs-12 contenido">
+      <div class="leer-mas"><a href="/personas/productos-servicios/giros/internacionales-hacia-el-exterior/" title="Giros internacionales hacia el exterior" target="">Leer más</a></div>
+      <h2><a href="/personas/productos-servicios/giros/internacionales-hacia-el-exterior/" title="Giros internacionales hacia el exterior" target="">Giros internacionales hacia el exterior</a></h2>
+      
+    </div>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_416CH480L0DQ50A18GHPJIGUN3"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+             <link rel="stylesheet" title="" href="/wcm/connect/www.bancolombia.com-26918/6c0e5a7a-74c0-4dc2-a47d-83f2170648d8/css_footer_transversal_boostrap.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-6c0e5a7a-74c0-4dc2-a47d-83f2170648d8-ogbH7c6" type="text/css">
+
+<footer id="footer">
+    <div class="footer_bg_dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-2 acors-group">
+                    <div class="row acor">
+                        <div class="col-12 acor-header deletePadd">
+                            <h6 class="acor-header-left">Te puede interesar</h6>
+                            <div class="acor-header-right">
+                                <em class="bc-icon bc-sm acor-open" tabindex="0" role="heading" aria-level="1">arrow2-down</em>
+                            </div>
+                        </div>
+                        <div class="col-12 acor-content deletePadd">
+                            <ul>
+                                  <li>
+                                    <a href="/wps/portal/acerca-de" target="_blank" title="Acerca de nosotros">Acerca de nosotros</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.bancolombia.com/wps/portal/acerca-de/mapa-del-sitio" target="_blank">Mapa del sitio</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.bancolombia.com/wps/portal/acerca-de/informacion-corporativa/trabaja-con-nosotros" target="_blank">Trabaja con nosotros</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.grupobancolombia.com/" target="_blank">Grupo
+                                        Bancolombia</a>
+                                </li>
+                                <li>
+                                    <a href="/centro-de-ayuda" target="_blank">Centro de Ayuda</a>
+                                </li>
+                                <li>
+                                    <a href="/centro-de-ayuda/canales" target="_blank">Canales</a>
+                                </li>
+                                 <li>
+                                    <a href="/puntos-de-atencion" target="_blank">Puntos de atención</a>
+                                </li>
+
+                                <li>
+                                    <a href="/personas/documentos-legales/personas-con-discapacidad" target="_blank">Accesibilidad</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 acors-group">
+                    <div class="row acor">
+                        <div class="col-12 acor-header deletePadd">
+                            <h6 class="acor-header-left">Legales</h6>
+                            <div class="acor-header-right">
+                                <em class="bc-icon bc-sm acor-open" tabindex="0" role="heading" aria-level="1">arrow2-down</em>
+                            </div>
+                        </div>
+                        <div class="col-12 acor-content deletePadd">
+                            <div class="row">
+                                <div class="col-12 col-lg-6 deletePaddLef">
+                                    <ul>
+                                        <li>
+                                            <a href="https://www.grupobancolombia.com/corporativo/gobierno-corporativo" target="_blank">Gobierno
+                                                Corporativo</a>
+                                        </li>
+                                        <li>
+                                            <a href="/educacion-financiera/seguridad-de-la-informacion/sarlaft-bancolombia-lavado-activos" target="_blank">SARLAFT</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.grupobancolombia.com/proteccion-datos" target="_blank">Protección de datos</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.grupobancolombia.com/condiciones-de-uso" target="_blank">Términos y Condiciones de
+                                                uso</a>
+                                        </li>
+                                        <li>
+                                            <a href="/empresas/productos-servicios/seguros/licitacion-seguros" target="_blank">Proceso licitario seguros 2021-2023</a>
+                                        </li>
+                                        <li>
+                                            <a href="/personas/tarifario" target="_blank">Tarifas</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col-12 col-lg-6 deletePaddLef">
+                                    <ul>
+                                        <li>
+                                            <a href="/personas/documentos-legales/transparencia-acceso-informacion" target="_blank">Transparencia y Acceso a la Información</a>
+                                        </li>
+                                        <li>
+                                            <a href="/personas/consumidor-financiero" target="_blank">Atención al
+                                                Consumidor Financiero</a>
+                                        </li>
+                                        <li style="overflow-wrap: break-word;padding-right: 20px;">
+                                            <a href="mailto:notificacijudicial@bancolombia.com.co" target="_blank">notificacijudicial@bancolombia.com.co</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-2 acors-group">
+                    <div class="row acor">
+                        <div class="col-12 acor-header deletePadd">
+                            <a href="/empresas/contactanos" target="_blank" class="contact-us"><h6 class="acor-header-left">Contáctanos</h6></a>
+                            <div class="acor-header-right">
+                                <em class="bc-icon bc-sm acor-open" tabindex="0" role="heading" aria-level="1">arrow2-down</em>
+                            </div>
+                        </div>
+                        <div class="col-12 acor-content deletePadd">
+                            <ul>
+                                <li>
+                                    Carrera 48 # 26 - 85 Medellín – Colombia
+                                </li>
+                                <li>
+                                    <a href="tel:6013430000">Bogotá +57 (601) 343 0000</a>
+                                </li>
+                                <li>
+                                    <a href="tel:6045109000">Medellín +57 (604) 510 9000</a>
+                                </li>
+                                <li>
+                                    <a href="tel:018000912345">Línea gratuita resto del país:  01 8000 9 12345</a>
+                                </li>
+                                <li>
+                                    <a href="tel:018000524499">Línea ética 01 8000 524499</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 especial-flex deletePadd">
+
+                    <div class="description">
+                        <div class="description-detail">
+                            <p>
+                                Productos y servicios de Banca, Fiducia, Banca de Inversión, Financiamiento, además
+                                del
+                                portafolio
+                                ofrecido por las entidades del exterior en Panamá, Estados Unidos y Puerto Rico.
+                            </p>
+                        </div>
+                        <div class="vigilado">
+                            <img src="/wcm/connect/www.bancolombia.com-26918/1136fde2-4716-4e0d-9525-cda53b638cea/Group+4.svg?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-1136fde2-4716-4e0d-9525-cda53b638cea-nJvZkmc" alt="logo-vigilado" class="logo-vigilado">
+                            <p>BANCOLOMBIA S.A. Establecimiento Bancario</p>
+                        </div>
+                        <div class="social_media">
+                            <ul>
+                                <li style="margin-top: -4px;">
+                                    <a href="https://wa.me/573013536788" target="_blank">
+                                       <i class="icon-bco icon-whatsapp"> </i>
+                                      
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.facebook.com/bancolombia" target="_blank">
+                                        <span class="bc-icon">facebook</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/Bancolombia" target="_blank">
+                                        <span class="bc-icon">twitter</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://instagram.com/bancolombia" target="_blank">
+                                        <span class="bc-icon">instagram</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.youtube.com/user/GrupoBancolombia" target="_blank">
+                                        <span class="bc-icon">youtube</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/company/22690" target="_blank">
+                                        <span class="bc-icon">linkedin</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer_bg_light">
+        <div class="container">
+            <div class="row">
+                <div class="footer-logo">
+                    <span class="bc-icon">bancolombia-horizontal</span>
+                    <p class="footer-copyright">Copyright © 2023 Grupo Bancolombia</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<style>
+
+</style>
+<script>
+    function footer() {
+    
+    let f = new Date();
+    let fecha = (f.getFullYear());
+    let arrowOpen = document.querySelectorAll("#footer .footer_bg_dark .acors-group .acor .acor-header .acor-header-right .acor-open")
+    let acorContent = document.querySelectorAll("#footer .footer_bg_dark .acors-group .acor .acor-content")
+    let copyright = document.querySelector("#footer .footer_bg_light .footer-logo .footer-copyright")
+
+    copyright.innerHTML = "Copyright © " + fecha + " Grupo Bancolombia";
+
+    if (window.innerWidth < 993) {
+        acorContent.forEach(element => {
+            element.classList.add("hidden-content")
+        });
+        arrowOpen.forEach((element, index) => {
+            element.addEventListener("click", (e) => {
+                if (acorContent[index].classList.contains("show-content")) {
+                    acorContent[index].classList.remove("show-content")
+                    acorContent[index].classList.add("hidden-content")
+                    element.classList.add("hidden-content-arrow")
+                    element.classList.remove("show-content-arrow")
+                } else {
+                    acorContent[index].classList.remove("hidden-content")
+                    acorContent[index].classList.add("show-content")
+                    element.classList.remove("hidden-content-arrow")
+                    element.classList.add("show-content-arrow")
+                }
+            })
+        });
+
+    }
+    else {
+    }
+}
+window.addEventListener("DOMContentLoaded", () => {
+    if (document.getElementById("footer").length != 0) {
+        footer();
+    }
+})
+</script>
+
+<script>
+(()=>{
+    let CheckDomian = (window.location.pathname)
+    const pathnameUrl = "//personas/solicitud-de-productos"
+    const pathnameEnd = "/personas/solicitud-de-productos"
+    if (CheckDomian === pathnameUrl) location.replace(window.location.origin + pathnameEnd)
+}
+)()
+</script>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+        
+<!--div id="layoutContainers" class="wpthemeLayoutContainers wpthemeLayoutContainersHidden" >	
+		<div class="wpthemeInner">								
+			<div class="wpthemeClear"></div>
+		</div>
+	</div-->
+
+
+</portletapi:init></portletapi:init>
+<script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:373418,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script><link rel="alternate" href="https://www.bancolombia.com/personas/productos-servicios/compra-venta-dolares-efectivo" hreflang="es-co">
+<script type="text/javascript" id="">var userId=google_tag_manager["GTM-W95WRK"].macro(112)||null;window.hj("identify",userId,{identify:userId});</script><img src="https://t.co/i/adsct?bci=3&amp;eci=2&amp;event_id=70733edc-f037-40cf-b656-0a1c015a5504&amp;events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&amp;integration=advertiser&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=046c9d56-8ac6-4fb7-b807-ec7446f3610d&amp;tw_document_href=https%3A%2F%2Fwww.bancolombia.com%2Fpersonas%2Fproductos-servicios%2Fcompra-venta-dolares-efectivo&amp;tw_iframe_status=0&amp;tw_order_quantity=0&amp;tw_sale_amount=0&amp;txn_id=nvl9j&amp;type=javascript&amp;version=2.3.29" height="1" width="1" style="display: none;"><img src="https://analytics.twitter.com/i/adsct?bci=3&amp;eci=2&amp;event_id=70733edc-f037-40cf-b656-0a1c015a5504&amp;events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&amp;integration=advertiser&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=046c9d56-8ac6-4fb7-b807-ec7446f3610d&amp;tw_document_href=https%3A%2F%2Fwww.bancolombia.com%2Fpersonas%2Fproductos-servicios%2Fcompra-venta-dolares-efectivo&amp;tw_iframe_status=0&amp;tw_order_quantity=0&amp;tw_sale_amount=0&amp;txn_id=nvl9j&amp;type=javascript&amp;version=2.3.29" height="1" width="1" style="display: none;"><script type="text/javascript" id="">try{var typedy="",datady="",val=google_tag_manager["GTM-MVS477M"].macro(126);""==typedy&&(datady=val.split("/"),val=val[1].trim(),window.DY=window.DY||{},DY.recommendationContext={type:typedy,data:[datady]})}catch(a){console.log("::Error Tag.Dynamic Yield - Script Contexto: "+a);var evento={type:"type_err"+typedy,data:"data_err"+datady}};</script><script type="text/javascript" id="">(function(e){function f(b,a,c){if(b.addEventListener)b.addEventListener(a,c);else if(b.attachEvent)b.attachEvent("on"+a,function(d){c.call(b,d)});else if("undefined"===typeof b["on"+a]||null===b["on"+a])b["on"+a]=function(d){c.call(b,d)}}f(e,"message",function(b){try{var a=JSON.parse(b.data),c=e.dataLayer||(e.dataLayer=[]);"SEND_USERID"===a.event&&c.push({event:a.event,tipo_doc:a.tipo_doc,userId:a.userId,telefono:a.telefono,email:a.email})}catch(d){}})})(window);</script><script type="text/javascript" id="">!function(){var a=window.analytics=window.analytics||[];if(!a.initialize)if(a.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{a.invoked=!0;a.methods="trackSubmit trackClick trackLink trackForm pageview identify reset group track ready alias debug page once off on addSourceMiddleware addIntegrationMiddleware setAnonymousId addDestinationMiddleware".split(" ");a.factory=function(b){return function(){var c=Array.prototype.slice.call(arguments);c.unshift(b);
+a.push(c);return a}};for(var e=0;e<a.methods.length;e++){var f=a.methods[e];a[f]=a.factory(f)}a.load=function(b,c){var d=document.createElement("script");d.type="text/javascript";d.async=!0;d.src="https://cdn.segment.com/analytics.js/v1/"+b+"/analytics.min.js";b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(d,b);a._loadOptions=c};a._writeKey="tLaTw4deomRI5TNPu7siYARckwFqGstp";a.SNIPPET_VERSION="4.15.3";a.load("tLaTw4deomRI5TNPu7siYARckwFqGstp")}}();</script><script type="text/javascript" id="">var titlePage=document.title.toLowerCase();-1==document.location.href.search("appspot.com")&&analytics.page("Page View",{content_name:titlePage});</script><script type="text/javascript" id="">(function(){var b=google_tag_manager["GTM-PS6GSZT"].macro(173);try{var d=1E3;setInterval(function(){try{var a=sessionStorage.getItem("_tracked_products")||"[]",c=JSON.parse(a);0<c.length&&(window.dataLayer.push({event:"impressions",products:c}),sessionStorage.setItem("_tracked_products","[]"))}catch(e){b(e)}},d)}catch(a){b(a)}})();</script><script type="text/javascript" id="">(function(){try{var m=google_tag_manager["GTM-PS6GSZT"].macro(175),h=google_tag_manager["GTM-PS6GSZT"].macro(176),q=google_tag_manager["GTM-PS6GSZT"].macro(178),g=document.location.pathname,n=window.location.hash.split("?")[0].replace("#/",""),k={RTC0001:"American express Blue",RTC0002:"American express Green",RTC0003:"American express Gold",RTC0004:"American express Platinum",RTC0404:"American express Libre",RTC0007:"MasterCard Clasica",RTC0008:"MasterCard Oro",RTC0009:"MasterCard Platinum",RTC0010:"MasterCard Black",RTC0011:"MasterCard Sufi Oro",RTC0012:"MasterCard Esso Mobil Clasica",
+RTC0013:"MasterCard Esso Mobil Oro",RTC0014:"Visa Clasica",RTC0015:"Visa Oro",RTC0016:"Visa Planitum",RTC0017:"Visa Selecci\u00f3n",RTC0018:"Visa Infinite",RTC0019:"Visa Lifemiles",RTC0020:"Multiproducto",RTC0021:"MasterCard Joven",RTC0022:"MasterCard Ideal",RCH0001:"Cr\u00e9dito Hipotecario",RCH0002:"Leasing Habitacional",RVH0001:"Cr\u00e9dito para Veh\u00edculo",RVH0002:"Leasing para Veh\u00edculo",RVH0003:"Cr\u00e9dito para Moto de Alto cilindraje",REC0001:"Cr\u00e9dito para estudiar Corto plazo",
+REC0002:"Cr\u00e9dito para estudiar largo plazo pregrado",REC0003:"Cr\u00e9dito para estudiar largo plazo postgrado",REC0004:"Compra de Cartera Cr\u00e9dito de Consumo",RSG0001:"Seguro Plan Vida total",RSG0002:"Seguro Exequial",RSG0003:"Seguro Cobertura Integral",RCA0001:"Crediagil",RLI0001:"Cr\u00e9dito Libre Inversi\u00f3n",RLB0001:"Libranza"};if(-1<g.indexOf("/personas/solicitud-de-productos")){if(-1<g.indexOf("/detalle-producto")){var a=h(document.querySelector(".productos-tarjetasForm-Info h3").innerText.trim()),
+b={id:a,name:a,brand:a.split(" ")[0],category:h(document.querySelector(".productos-tarjetasForm-Info h4").innerText.trim()),price:1};window.dataLayer.push({event:"detail",product:b});sessionStorage.setItem("ddProduct",JSON.stringify(b));document.cookie="ddProduct\x3d"+JSON.stringify(b)+"; path\x3d/; domain\x3dgrupobancolombia.com";document.querySelector(".btnDetalle .btn.button-primary").addEventListener("click",function(){try{var d=h(document.querySelector(".productos-tarjetasForm-Info h3").innerText.trim());
+window.dataLayer.push({event:"addToCart",products:[{id:d,name:d,brand:d.split(" ")[0],category:h(document.querySelector(".productos-tarjetasForm-Info h4").innerText.trim()),price:1}]})}catch(l){m(l)}})}document.querySelector("body").addEventListener("click",function(d){try{var l=d.target;if(null!=l.closest(".productos-contenido-destacado .btn.button-primary , .btn-secundario-small")){var r=q(l.closest(".productos-contenedor-seccion-1 , .productos-contenido-destacado"));window.dataLayer.push({event:"productClick",
+product:r})}}catch(t){m(t)}})}if("accesodigital.grupobancolombia.com"==document.location.hostname&&void 0!=document.location.href.split("code\x3d")[1]){if(-1<n.indexOf("abreCuenta")){var e=document.location.href.split("code\x3d")[1].split("\x26")[0];a=k[e];var c=a.includes("Cr\u00e9dito")||a.includes("Leasing")||a.includes("Seguro")||a.includes("Crediagil")||a.includes("Libranza")?"Creditos":"Tarjeta de credito",f="Tarjeta de credito"==c?a.split(" ")[0]:a;null!=a&&window.dataLayer.push({event:"checkoutStep",
+step:"1 - "+a,products:[{id:a,name:a,brand:f,category:c,quantity:1,price:1}]})}-1<n.indexOf("requisitosMinimos")&&(e=document.location.href.split("code\x3d")[1].split("\x26")[0],a=k[e],c=a.includes("Cr\u00e9dito")||a.includes("Leasing")||a.includes("Seguro")||a.includes("Crediagil")||a.includes("Libranza")?"Creditos":"Tarjeta de credito",f="Tarjeta de credito"==c?a.split(" ")[0]:a,b={id:a,name:a,brand:f,category:c,quantity:1,price:1},sessionStorage.setItem("ddProduct",JSON.stringify(b)),window.dataLayer.push({event:"checkoutStep",
+step:"2 - "+a,products:[b]}))}if("accesodigital.grupobancolombia.com"==document.location.hostname&&-1<n.indexOf("agradecimiento")){var p=sessionStorage.getItem("ddProduct");b=JSON.parse(p);window.dataLayer.push({event:"purchase",eventLabel:b.name,products:[b]})}if(-1<g.indexOf("/personas/productos-servicios/tarjetas-credito/referido-tarjeta-credito")||-1<g.indexOf("/personas/creditos/"))sessionStorage.getItem("ddProduct")?(p=sessionStorage.getItem("ddProduct"),b=JSON.parse(p),b.quantity="1",window.dataLayer.push({event:"checkoutStep",
+products:[b],step:"2 - "+b.name})):(e=document.location.href.split("code\x3d")[1].split("\x26")[0],a=k[e],c=a.includes("Cr\u00e9dito")||a.includes("Leasing")||a.includes("Seguro")||a.includes("Crediagil")||a.includes("Libranza")?"Creditos":"Tarjeta de credito",f="Tarjeta de credito"==c?a.split(" ")[0]:a,b={id:a,name:a,brand:f,category:c,quantity:1,price:1},sessionStorage.setItem("ddProduct",JSON.stringify(b)),window.dataLayer.push({event:"checkoutStep",step:"2 - "+a,products:[b]}));-1<g.indexOf("/personas/productos-servicios/creditos/consumo/")&&
+(e=document.location.href.split("code\x3d")[1].split("\x26")[0],a=k[e],c=a.includes("Cr\u00e9dito")||a.includes("Leasing")||a.includes("Seguro")||a.includes("Crediagil")||a.includes("Libranza")?"Creditos":"Tarjeta de credito",f="Tarjeta de credito"==c?a.split(" ")[0]:a,null!=a&&(b={id:a,name:a,brand:f,category:c,quantity:1,price:1},sessionStorage.setItem("ddProduct",JSON.stringify(b)),window.dataLayer.push({event:"checkoutStep",step:"2 - "+a,products:[b]})))}catch(d){m(d)}})();</script><script type="text/javascript" id="" src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script><iframe id="_hjSafeContext_87522768" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" data-gtm-yt-inspected-1285339_700="true" data-gtm-yt-inspected-1285339_4574="true" data-gtm-yt-inspected-117="true" data-gtm-yt-inspected-122="true" data-gtm-yt-inspected-92224505_300="true" data-gtm-yt-inspected-50591455_706="true" data-gtm-yt-inspected-185="true" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><iframe tabindex="-1" aria-hidden="true" role="presentation" title="Intentionally blank" name="lpSS_56458395204" id="lpSS_56458395204" src="https://lpcdn.lpsnmedia.net/le_secure_storage/3.20.0.0-release_5080/storage.secure.min.html?loc=https%3A%2F%2Fwww.bancolombia.com&amp;site=29373698&amp;env=prod&amp;accdn=accdn.lpsnmedia.net" data-gtm-yt-inspected-1285339_700="true" data-gtm-yt-inspected-1285339_4574="true" data-gtm-yt-inspected-50591455_706="true" data-gtm-yt-inspected-117="true" data-gtm-yt-inspected-122="true" data-gtm-yt-inspected-92224505_300="true" data-gtm-yt-inspected-185="true" style="width: 0px; height: 0px; position: absolute; top: -1000px; left: -1000px; display: none;"></iframe><iframe src="https://serviciosvirtuales-wd.apps.bancolombia.com/personas" id="iFrameResizer" scrolling="no" frameborder="0" allow="camera;microphone" style="max-height: 100vh; max-width: 100vw; height: 110.92px; width: 240.64px; overflow: hidden; position: fixed; bottom: 0px; right: 0px; z-index: 999999;" data-gtm-yt-inspected-1285339_700="true" data-gtm-yt-inspected-1285339_4574="true" data-gtm-yt-inspected-50591455_706="true" data-gtm-yt-inspected-117="true" data-gtm-yt-inspected-122="true" data-gtm-yt-inspected-92224505_300="true" data-gtm-yt-inspected-185="true"></iframe><script id="lpSS_54129175948" src="https://lpcdn.lpsnmedia.net/le_secure_storage/3.20.0.0-release_5080/storage.secure.min.js?loc=https%3A%2F%2Fwww.bancolombia.com&amp;site=29373698&amp;force=1&amp;env=prod&amp;accdn=accdn.lpsnmedia.net"></script></body></html>
