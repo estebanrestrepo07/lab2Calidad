@@ -10,6 +10,8 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features/open_bancolombia_page.feature",
         glue = "com.bancolombia.personas.calidad.stepdefinitions",
         snippets = SnippetType.CAMELCASE
+
+
 )
 public class OpenBancolombiaPersonas {
 
